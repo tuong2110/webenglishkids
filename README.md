@@ -42,6 +42,69 @@ webhocngoaingu/
 - Database name: `hocngoaingu`
 - Cập nhật thông tin kết nối trong `webhocngoaingu/configs/config.php`
 
+## Cron Job - Email Tự Động
+
+Để bật tính năng email nhắc nhở học tập và báo cáo tiến trình học tập, bạn cần cài đặt Cron Job cho các file sau:
+
+### 1. Báo cáo tiến trình học tập
+Gửi email báo cáo hàng ngày về các từ vựng đã học trong ngày.
+
+**File:** `webhocngoaingu/public/cron-job/bao_cao_hoc_tap.php`
+
+**Cài đặt Cron Job (chạy mỗi ngày lúc 20:00):**
+```bash
+0 20 * * * /usr/bin/php /đường/dẫn/đến/webhocngoaingu/public/cron-job/bao_cao_hoc_tap.php
+```
+
+**Hoặc sử dụng wget/curl (nếu chạy qua web server):**
+```bash
+0 20 * * * /usr/bin/wget -q -O - http://yourdomain.com/webhocngoaingu/public/cron-job/bao_cao_hoc_tap.php > /dev/null 2>&1
+```
+
+### 2. Nhắc nhở học tập
+Gửi email nhắc nhở vào lúc 10:00 và 18:00 hàng ngày cho người dùng chưa đạt mục tiêu hoặc chưa học trong ngày.
+
+**File:** `webhocngoaingu/public/cron-job/nhac_nho_hoc_tap.php`
+
+**Cài đặt Cron Job (chạy mỗi giờ, script tự kiểm tra thời gian):**
+```bash
+0 * * * * /usr/bin/php /đường/dẫn/đến/webhocngoaingu/public/cron-job/nhac_nho_hoc_tap.php
+```
+
+**Hoặc chạy cụ thể vào 10:00 và 18:00:**
+```bash
+0 10,18 * * * /usr/bin/php /đường/dẫn/đến/webhocngoaingu/public/cron-job/nhac_nho_hoc_tap.php
+```
+
+**Hoặc sử dụng wget/curl:**
+```bash
+0 10,18 * * * /usr/bin/wget -q -O - http://yourdomain.com/webhocngoaingu/public/cron-job/nhac_nho_hoc_tap.php > /dev/null 2>&1
+```
+
+### Cách cài đặt Cron Job:
+
+1. **Mở crontab editor:**
+   ```bash
+   crontab -e
+   ```
+
+2. **Thêm các dòng cron job ở trên** (thay thế đường dẫn và domain phù hợp)
+
+3. **Lưu và thoát**
+
+4. **Kiểm tra cron job đã được thêm:**
+   ```bash
+   crontab -l
+   ```
+
+### Lưu ý:
+- Thay `/đường/dẫn/đến/` bằng đường dẫn thực tế đến thư mục dự án
+- Thay `yourdomain.com` bằng domain thực tế của bạn
+- Đảm bảo PHP có quyền thực thi và có thể kết nối database
+- Người dùng cần bật tính năng trong cài đặt tài khoản:
+  - `BaoCaoTienTrinhHocTap = 1` cho báo cáo tiến trình
+  - `NhacNhoTienTrinhHocTap = 1` cho nhắc nhở học tập
+
 ## Lưu ý
 
 - Đảm bảo thư mục `webhocngoaingu/assets/uploads` có quyền ghi
