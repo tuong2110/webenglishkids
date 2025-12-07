@@ -1,0 +1,44 @@
+# Vendor dependencies
+webhocngoaingu/vendor/
+
+# Uploads
+webhocngoaingu/assets/uploads/
+
+# Configuration files with sensitive data
+webhocngoaingu/configs/config.php
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Database
+*.sql
+!webhocngoaingu/tao_bang_*.sql
+!webhocngoaingu/cap_nhat_*.sql
+!webhocngoaingu/them_*.sql
+
+# Node modules (if any)
+node_modules/
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Composer
+composer.phar
+

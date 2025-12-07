@@ -1,0 +1,43 @@
+# Vendor dependencies
+/vendor/
+
+# Uploads
+/assets/uploads/
+
+# Configuration files with sensitive data
+/configs/config.php
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Database
+*.sql
+!tao_bang_*.sql
+!cap_nhat_*.sql
+!them_*.sql
+
+# Script files (optional - uncomment if you don't want to include)
+# *.bat
+# *.ps1
+# *.py
+
+# Node modules (if any)
+node_modules/
+
+# Composer
+composer.phar

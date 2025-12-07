@@ -1,0 +1,727 @@
+﻿Test,Part,NoiDungTuVung,DichNghia,AmThanh,CauViDu
+1,1,Wipe off,lau sạch,/waɪp ɒf/,She used a cloth to wipe off the dust from the table.
+1,1,Throw away,vứt bỏ,/θrəʊ əˈweɪ/,Please don't throw away recyclable materials.
+1,1,Brush off,"phủi đi, phớt lờ",/brʌʃ ɒf/,He brushed off the criticism and continued his work confidently.
+1,1,Shovel from,xúc khỏi,/ˈʃʌvəl frɒm/,Workers are shoveling snow from the driveway.
+1,1,Hang,"treo, móc",/hæŋ/,He decided to hang a picture on the wall above the sofa.
+1,1,Have a conversation,trò chuyện,/hæv ə ˌkɒnvəˈseɪʃən/,They stopped by to have a conversation about the upcoming project.
+1,1,Rearrange,sắp xếp lại,/ˌriːəˈreɪndʒ/,She decided to rearrange the furniture in her living room.
+1,1,Cushion,gối đệm,/ˈkʊʃən/,The sofa has a soft cushion for added comfort.
+1,1,Enter,đi vào,/ˈentə/,Please enter the building through the main door.
+1,1,Scatter,"rải, tung",/ˈskætə/,The children scattered the toys all over the floor.
+1,1,Rack,giá đỡ,/ræk/,The books were neatly organized on the rack.
+1,1,Line up,xếp hàng,/laɪn ʌp/,The students lined up in front of the classroom before entering.
+1,1,Tent,lều,/tent/,They set up a tent in the middle of the campsite.
+1,1,Potted plant,cây trong chậu,/ˈpɒtɪd plɑːnt/,A potted plant added a touch of green to the corner of the room.
+1,1,Suspend,treo lơ lửng,/səˈspend/,The lamp was suspended from the ceiling by a chain.
+1,1,Stack,"chất đống, chồng",/stæk/,The worker stacked boxes neatly in the warehouse.
+1,1,Entryway,lối vào,/ˈentriˌweɪ/,The entryway to the house was decorated with fresh flowers.
+1,1,Rug,thảm nhỏ,/rʌɡ/,A colorful rug was placed under the coffee table.
+1,1,Roll up,cuộn lại,/rəʊl ʌp/,He rolled up the poster and put it back into its tube.
+1,1,Sweep,quét,/swiːp/,She used a broom to sweep the kitchen floor.
+1,1,Patio,sân nhỏ ngoài trời,/ˈpætɪəʊ/,They enjoyed their morning coffee on the patio overlooking the garden.
+1,1,Light fixture,đèn cố định,/laɪt ˈfɪkstʃə/,The new light fixture in the living room gave the space a modern look.
+1,2,Do for a living,làm nghề gì để sống,/duː fɔːr ə ˈlɪvɪŋ/,What do you do for a living?
+1,2,Assignment,"nhiệm vụ, bài tập",/əˈsaɪnmənt/,The teacher gave us a challenging assignment to complete by Friday.
+1,2,Tenant,người thuê nhà,/ˈtenənt/,The tenant agreed to pay the rent on the first of each month.
+1,2,Work order,phiếu công việc,/wɜːk ˈɔːdə/,The technician completed the work order for the broken AC unit.
+1,2,Vendor,"người bán hàng, nhà cung cấp",/ˈvendə/,The vendor sold fresh fruits and vegetables at the market.
+1,2,Personnel,"nhân sự, cán bộ",/ˌpɜːsəˈnel/,The company is looking to hire more personnel for its IT department.
+1,2,Cafeteria,quán ăn tự phục vụ,/ˌkæfɪˈtɪəriə/,Employees often gather in the cafeteria during their lunch breaks.
+1,2,Manual,sách hướng dẫn / thủ công,/ˈmænjuəl/,The technician followed the manual to repair the equipment.
+1,2,Forecast,dự báo,/ˈfɔːkɑːst/,The weather forecast predicts heavy rain this weekend.
+1,2,Corridor,hành lang,/ˈkɒrɪdɔː/,The corridor was brightly lit and decorated with paintings.
+1,2,Turn out,"hóa ra, diễn ra",/tɜːn aʊt/,The event turned out to be a huge success.
+1,2,Hike,"sự tăng lên, đi bộ đường dài",/haɪk/,The sudden hike in fuel prices surprised many people.
+1,2,Boots,đôi ủng,/buːts/,She wore waterproof boots for the hiking trip.
+1,2,Enjoyable,"thú vị, vui vẻ",/ɪnˈdʒɔɪəbl/,The picnic was an enjoyable experience for everyone.
+1,2,Make a reservation,"đặt chỗ, đặt bàn",/meɪk ə ˌrezəˈveɪʃən/,I called the restaurant to make a reservation for dinner.
+1,2,Sold out,bán hết,/səʊld aʊt/,Tickets for the concert were sold out within minutes.
+1,2,Blender,máy xay sinh tố,/ˈblendə/,She used the blender to make a fresh fruit smoothie.
+1,2,Prototype,"nguyên mẫu, mẫu thử",/ˈprəʊtətaɪp/,The engineers tested the prototype before mass production began.
+1,2,Terminal,nhà ga / cuối cùng,/ˈtɜːmɪnəl/,The train stopped at the terminal station of its route.
+1,2,Bouquet,bó hoa,/buːˈkeɪ/,He gave her a beautiful bouquet of roses for her birthday.
+1,2,Nominate,"đề cử, bổ nhiệm",/ˈnɒmɪneɪt/,She was nominated for the award of Best Actress.
+1,2,Made a speech,phát biểu,/meɪd ə spiːtʃ/,The president made a speech at the opening ceremony.
+1,2,Merchandise,hàng hóa,/ˈmɜːtʃəndaɪz/,The store displays its merchandise attractively to attract customers.
+1,2,Prescription,đơn thuốc,/prɪˈskrɪpʃən/,The doctor gave her a prescription for antibiotics.
+1,2,Look for,tìm kiếm,/lʊk fɔː/,She is looking for her keys everywhere in the house.
+1,3,Calculate,tính toán,/ˈkælkjʊleɪt/,She used a calculator to calculate the total expense.
+1,3,Expense,chi phí,/ɪkˈspens/,The company reduced its monthly expenses to improve profits.
+1,3,Reimbursement,sự hoàn trả,/ˌriːɪmˈbɜːsmənt/,Employees can request reimbursement for travel expenses.
+1,3,Receipt,biên lai,/rɪˈsiːt/,Keep your receipt in case you need to return the item.
+1,3,Accommodation,chỗ ở,/əˌkɒməˈdeɪʃən/,The hotel offers luxury accommodation for its guests.
+1,3,Sales representative,nhân viên kinh doanh,/seɪlz ˌreprɪˈzentətɪv/,The sales representative introduced the new product to potential clients.
+1,3,Accurate,chính xác,/ˈækjʊrət/,The report provides accurate information about the project.
+1,3,Follow,"theo dõi, làm theo",/ˈfɒləʊ/,Make sure to follow the instructions carefully.
+1,3,Authorize,"ủy quyền, cho phép",/ˈɔːθəraɪz/,The manager authorized the purchase of new equipment.
+1,3,Spreadsheet,bảng tính,/ˈspredʃiːt/,Use the spreadsheet to organize the budget details.
+1,3,Fog,sương mù,/fɒɡ/,Heavy fog delayed the flight schedule.
+1,3,Lift,thang máy / nâng lên,/lɪft/,They used a crane to lift the heavy cargo onto the ship.
+1,3,Harbor,bến cảng,/ˈhɑːbə/,The harbor was filled with fishing boats and yachts.
+1,3,Deck,"boong tàu, sàn tàu",/dek/,Passengers gathered on the deck to enjoy the view of the sea.
+1,3,Uneventful,"yên ả, không có biến cố",/ˌʌnɪˈventfl/,The journey was long but uneventful.
+1,3,Cargo ship,tàu chở hàng,/ˈkɑːɡəʊ ʃɪp/,The cargo ship carried goods across the ocean.
+1,3,Behind schedule,trễ tiến độ,/bɪˈhaɪnd ˈʃedjuːl/,The construction project is running behind schedule due to bad weather.
+1,3,Port authority,cơ quan quản lý cảng,/pɔːt ɔːˈθɒrəti/,The port authority monitors all incoming and outgoing ships.
+1,3,Clear,dọn dẹp / rõ ràng,/klɪə/,Please clear the table after dinner.
+1,3,Hospitality,lòng hiếu khách,/ˌhɒspɪˈtæləti/,The staff’s hospitality made our stay at the hotel memorable.
+1,3,Meteorology,khí tượng học,/ˌmiːtiəˈrɒlədʒi/,Meteorology helps predict severe weather conditions like hurricanes.
+1,3,Properly,"đúng cách, hợp lý",/ˈprɒpəli/,Please ensure the equipment is installed properly.
+1,3,Absent,vắng mặt,/ˈæbsənt/,Many students were absent from class due to illness.
+1,3,Place a call,gọi điện thoại,/pleɪs ə kɔːl/,She placed a call to the supplier to confirm the delivery schedule.
+1,3,Seat,sắp xếp chỗ ngồi,/siːt/,The usher seated the guests according to the seating plan.
+1,3,Terrace,"sân thượng, hiên",/ˈterəs/,We enjoyed dinner on the terrace overlooking the garden.
+1,3,Cashier,nhân viên thu ngân,/kæˈʃɪə/,The cashier processed the payment quickly.
+1,3,Demonstrate,"trình bày, chứng minh",/ˈdemənstreɪt/,The instructor will demonstrate how to use the new software.
+1,3,Compact,nhỏ gọn,/ˈkɒmpækt/,The compact design of the device makes it easy to carry around.
+1,3,Tablet,"máy tính bảng, viên thuốc",/ˈtæblɪt/,The doctor prescribed tablets for the patient.
+1,3,Brochure,cuốn sách nhỏ quảng cáo,/ˈbrəʊʃə/,The brochure provides details about the tour packages.
+1,3,Electronics store,cửa hàng điện tử,/ɪˌlekˈtrɒnɪks stɔː/,I went to the electronics store to buy a new phone charger.
+1,3,Contest,cuộc thi / tranh đấu,/ˈkɒntest/ (n); /kənˈtest/ (v),She entered a photography contest and won first prize.
+1,3,Concentrate on,tập trung vào,/ˈkɒnsəntreɪt ɒn/,You should concentrate on completing your project before the deadline.
+1,3,Reduction,sự giảm,/rɪˈdʌkʃən/,The store is offering a reduction in prices for all electronics.
+1,3,Ingredient,nguyên liệu,/ɪnˈɡriːdiənt/,The chef carefully selected the ingredients for the dish.
+1,3,Similar,"giống, tương tự",/ˈsɪmɪlə/,These two cars are similar in price and features.
+1,3,Investigation,sự điều tra,/ɪnˌvestɪˈɡeɪʃən/,The police launched an investigation into the robbery.
+1,3,Find out,tìm ra,/faɪnd aʊt/,I need to find out the opening hours of the library.
+1,3,Textile,"dệt may, vải",/ˈtekstaɪl/,The factory produces textiles for the fashion industry.
+1,3,Lack of,thiếu,/læk əv/,There is a lack of evidence to support the claim.
+1,3,Preference,"sự ưu tiên, thích hơn",/ˈprefərəns/,My preference is for spicy food over sweet dishes.
+1,3,Negotiate,đàm phán,/nɪˈɡəʊʃieɪt/,The company is negotiating a new contract with its suppliers.
+1,3,Expand,mở rộng,/ɪkˈspænd/,The company plans to expand its operations into Europe.
+1,3,Oversee,giám sát,/ˌəʊvəˈsiː/,She oversees the development of new products in the company.
+1,3,Description,sự mô tả,/dɪˈskrɪpʃən/,Can you provide a detailed description of the incident?
+1,3,Revise,"chỉnh sửa, xem lại",/rɪˈvaɪz/,I need to revise my essay before submitting it to the professor.
+1,3,Flat,căn hộ / phẳng,/flæt/,He lives in a flat overlooking the river.
+1,3,Be supposed to V,"được cho là, có nhiệm vụ làm gì",/bi səˈpəʊzd tə/,You're supposed to finish the assignment by Friday.
+1,3,Catering,dịch vụ ăn uống,/ˈkeɪtərɪŋ/,The company provides catering for corporate events.
+1,3,Dealership,đại lý,/ˈdiːləʃɪp/,He bought his car from a local dealership.
+1,3,Eventually,cuối cùng,/ɪˈventʃuəli/,She eventually decided to accept the job offer.
+1,3,Path,"con đường, lối đi",/pɑːθ/,We walked along the forest path to reach the cabin.
+1,3,Merge,hợp nhất,/mɜːdʒ/,The two companies agreed to merge into one organization.
+1,3,Relief,"sự giảm nhẹ, khuây khỏa",/rɪˈliːf/,She felt a sense of relief when she completed the exam.
+1,3,Initiative,"sáng kiến, sự khởi xướng",/ɪˈnɪʃətɪv/,The government has launched a new initiative to improve education.
+1,3,Doubt,sự nghi ngờ / nghi ngờ,/daʊt/,I have no doubt that she is qualified for the position.
+1,3,Relocate,"di chuyển, chuyển chỗ",/ˌriːləʊˈkeɪt/,The company decided to relocate its headquarters to a larger city.
+1,3,Container,thùng chứa,/kənˈteɪnə/,The containers were loaded onto the truck for delivery.
+1,3,Straw,"ống hút, rơm",/strɔː/,She drank her juice through a paper straw to avoid using plastic.
+1,3,No longer,không còn,/nəʊ ˈlɒŋɡə/,He no longer works for that company after the restructuring.
+1,3,Sculpture,tác phẩm điêu khắc,/ˈskʌlptʃə/,The museum displayed an ancient sculpture from the Roman era.
+1,4,Reach,"liên hệ, với tới",/riːtʃ/,You can reach me via email if you have any questions.
+1,4,Repave,lát lại,/ˌriːˈpeɪv/,The city council decided to repave the old road to improve driving conditions.
+1,4,Adjacent,liền kề,/əˈdʒeɪsənt/,The library is adjacent to the cafeteria on campus.
+1,4,Resident,cư dân,/ˈrezɪdənt/,The new policy was announced to all residents of the apartment complex.
+1,4,Designate,chỉ định,/ˈdezɪɡneɪt/,She was designated as the team leader for the project.
+1,4,Parking spot,chỗ đậu xe,/ˈpɑːkɪŋ spɒt/,Finding a parking spot near the mall can be difficult on weekends.
+1,4,Lobby,sảnh,/ˈlɒbi/,The meeting will be held in the lobby of the main building.
+1,4,Record,"hồ sơ, kỷ lục",/ˈrekɔːd/ (n); /rɪˈkɔːd/ (v),She holds the record for the fastest marathon time in the state.
+1,4,Fine,tiền phạt,/faɪn/,He received a fine for parking in a no-parking zone.
+1,4,Election ballot,lá phiếu bầu cử,/ɪˈlekʃən ˈbælət/,Voters are required to submit their election ballots by the end of the day.
+1,4,Episode,"tập phim, sự kiện",/ˈepɪsəʊd/,The latest episode of the TV series was quite thrilling.
+1,4,Go over,"xem lại, kiểm tra",/ɡəʊ ˈəʊvə/,Let’s go over the report to ensure all the data is accurate.
+1,4,Minor,"nhỏ, không đáng kể",/ˈmaɪnə/,The damage to the car was minor and could be repaired easily.
+1,4,Crack,"vết nứt, nứt vỡ",/kræk/,There’s a small crack in the windowpane that needs fixing.
+1,4,Track,"đường ray, theo dõi",/træk/,The hikers followed a narrow track through the forest.
+1,4,Invent,phát minh,/ɪnˈvent/,Thomas Edison invented the electric light bulb.
+1,4,Consult,"tham khảo, tư vấn",/kənˈsʌlt/,It’s better to consult with a lawyer before signing the contract.
+1,4,Drain,"ống thoát nước, làm cạn kiệt",/dreɪn/,"The kitchen sink is clogged, so the drain needs to be fixed."
+1,4,Conservatory,"nhà kính, nhạc viện",/kənˈsɜːvətəri/,She studies piano at the local conservatory.
+1,4,Learn about,tìm hiểu về,/lɜːn əˈbaʊt/,I want to learn about the history of this ancient city.
+1,4,Renowned,nổi tiếng,/rɪˈnaʊnd/,He is a renowned artist known for his vibrant paintings.
+1,4,Lecture,bài giảng,/ˈlektʃə/,The professor gave an inspiring lecture on environmental conservation.
+1,4,Conduct an interview,thực hiện một cuộc phỏng vấn,/kənˈdʌkt ən ˈɪntəvjuː/,The journalist will conduct an interview with the CEO tomorrow.
+1,4,Encourage,khuyến khích,/ɪnˈkʌrɪdʒ/,Her teacher always encourages her to try new things.
+1,4,Proceeds,"tiền thu được, doanh thu",/ˈprəʊsiːdz/,The proceeds from the charity event will go to local shelters.
+1,4,Rehearsal,buổi diễn tập,/rɪˈhɜːsl/,The actors are busy with rehearsals for the upcoming play.
+1,4,Sponsor,"tài trợ, nhà tài trợ",/ˈspɒnsə/,The company will sponsor the sports event to promote its brand.
+1,4,Refreshment,đồ ăn thức uống,/rɪˈfreʃmənt/,Refreshments will be served during the break.
+1,4,Session,"buổi họp, phiên",/ˈseʃən/,The training session will start at 10 AM.
+1,4,Wisely,một cách khôn ngoan,/ˈwaɪzli/,He wisely invested his money in real estate.
+1,4,Factor,yếu tố,/ˈfæktə/,Time is an important factor to consider when planning a project.
+1,4,Refer,"tham khảo, giới thiệu",/rɪˈfɜː/,Please refer to the manual for instructions on how to operate the machine.
+1,4,Packet,"gói, túi nhỏ",/ˈpækɪt/,She handed me a packet of documents to review.
+1,4,Hand,"đưa, giao",/hænd/,Can you hand me that book from the shelf?
+1,4,Archaeologist,nhà khảo cổ học,/ˌɑːkiˈɒlədʒɪst/,The archaeologist discovered ancient artifacts during the excavation.
+1,4,Uncover,"phát hiện, khám phá",/ʌnˈkʌvə/,The investigation aims to uncover the truth about the incident.
+1,4,Remain,"còn lại, giữ nguyên",/rɪˈmeɪn/,"Despite the storm, the structure remained intact."
+1,4,Mosaic,tranh khảm,/məʊˈzeɪɪk/,The church’s ceiling was decorated with a stunning mosaic.
+1,4,Vibrant,"sôi động, rực rỡ",/ˈvaɪbrənt/,The market is known for its vibrant atmosphere and colorful stalls.
+1,4,Ruin,"tàn tích, làm hỏng",/ˈruːɪn/,The ancient ruins attract thousands of tourists every year.
+1,4,Intricate,"phức tạp, tinh xảo",/ˈɪntrɪkət/,The artist’s intricate designs are admired worldwide.
+1,4,Dim,"lờ mờ, tối",/dɪm/,The room was lit by a single dim lamp.
+1,4,Proceed,"tiếp tục, tiến hành",/prəˈsiːd/,"After the discussion, we proceeded with the project as planned."
+1,4,Handrail,tay vịn cầu thang,/ˈhændreɪl/,Please use the handrail when walking down the stairs for safety.
+1,4,Defensive,phòng thủ,/dɪˈfensɪv/,The team played a defensive strategy to maintain their lead.
+1,4,Inhabitant,cư dân,/ɪnˈhæbɪtənt/,The city has millions of inhabitants who depend on public transport.
+1,4,Win a contract,giành được hợp đồng,/wɪn ə ˈkɒntrækt/,The company successfully won a contract to supply medical equipment to the hospital.
+1,4,Priority,ưu tiên,/praɪˈɒrəti/,Ensuring customer satisfaction is our top priority.
+1,4,Rough,"thô ráp, khó khăn",/rʌf/,"The terrain was rough, making it difficult to drive through."
+1,4,Keep sb posted,thông báo cho ai liên tục,/kiːp ˈsʌmbədi ˈpəʊstɪd/,Please keep me posted on any changes to the schedule.
+1,4,Explore,khám phá,/ɪkˈsplɔː/,The travelers explored the ancient ruins with great curiosity.
+1,4,Commemorate,tưởng nhớ,/kəˈmeməreɪt/,The statue was built to commemorate the hero's achievements.
+1,4,Depth,"độ sâu, chiều sâu",/depθ/,The depth of the ocean was difficult to measure accurately with the equipment available.
+1,4,Stay informed,luôn được cập nhật thông tin,/steɪ ɪnˈfɔːmd/,It’s important to stay informed about the latest news in the tech industry.
+2,1,Insert,"chèn, đưa vào",,Please insert the USB drive into the computer.
+2,1,Cord,dây cáp,,The cord of the lamp is tangled.
+2,1,Outlet,"ổ cắm điện, đầu ra",,Plug the charger into the outlet next to the bed.
+2,1,Press a button,nhấn nút,,"To start the machine, press the green button."
+2,1,Grip,"cầm chặt, sự nắm chặt",,Keep a firm grip on the ladder to avoid slipping.
+2,1,Handle,tay cầm,,The suitcase has a broken handle.
+2,1,Tack onto,gắn thêm vào,,The new schedule was tacked onto the noticeboard.
+2,1,Window shutter,cửa chớp,,He closed the window shutters to block out the sunlight.
+2,1,Clear off,dọn sạch,,Clear off the table before setting up the new display.
+2,1,Wooden board,tấm ván gỗ,,The carpenter cut the wooden board to the required dimensions.
+2,1,Utensil,dụng cụ,,Cooking utensils were neatly arranged on the counter.
+2,1,Discard,vứt bỏ,,Please discard any items that are no longer needed.
+2,1,Rolling chair,ghế xoay,,He sat on a rolling chair at his workstation.
+2,1,Counter,"quầy, mặt bàn",,Place the dishes on the kitchen counter after washing.
+2,1,Drawer,ngăn kéo,,The drawer was full of old receipts and papers.
+2,1,Chop,"thái, chặt",,He used a sharp knife to chop the vegetables.
+2,1,Scatter,"rải, rắc",,The children scattered the toys all over the room.
+2,1,Pile,"chồng, chất đống",,The workers piled the bricks neatly at the construction site.
+2,1,Load into,chất vào,,The groceries were loaded into the trunk of the car.
+2,1,Tent,lều,,We set up the tent by the lake for an overnight camping trip.
+2,1,Canopy,"mái che, tán cây",,A canopy was installed over the outdoor seating area to provide shade.
+2,1,Stack,"chồng, xếp chồng",,The books were stacked neatly on the shelf.
+2,1,Escalator,thang cuốn,,The escalator at the mall was under maintenance.
+2,1,Rack,giá đỡ,,Hang your coat on the rack by the door.
+2,1,Lift onto,nhấc lên,,They lifted the heavy box onto the truck with great effort.
+2,1,Shuttle bus,xe buýt đưa đón,,A shuttle bus runs between the airport and the hotel every 30 minutes.
+2,2,Trash bin,thùng rác,,Please throw the empty bottles into the trash bin.
+2,2,Branch,"chi nhánh, cành cây",,The bank opened a new branch in the city center.
+2,2,Water,tưới nước,,Don’t forget to water the plants while I’m away.
+2,2,Seashore,bờ biển,,We spent the afternoon walking along the seashore.
+2,2,Brochure,tờ rơi quảng cáo,,The travel agency provided a brochure detailing their tour packages.
+2,2,Front desk,quầy lễ tân,,You can leave your room key at the front desk.
+2,2,Delicious,ngon,,The restaurant is known for its delicious desserts.
+2,2,On time,đúng giờ,,The train arrived on time despite the bad weather.
+2,2,Demonstration,"sự trình diễn, minh họa",,The sales team gave a demonstration of the product's features.
+2,2,Specialist,chuyên gia,,A specialist was called to repair the damaged equipment.
+2,2,Involve,"bao gồm, liên quan đến",,The project will involve collaboration between multiple departments.
+2,2,Palette,bảng màu,,The artist chose a vibrant palette for her painting.
+2,2,Battery,"pin, ắc quy",,The remote control needs a new battery.
+2,2,Retire,nghỉ hưu,,He plans to retire from his job next year.
+2,2,Pick up,"nhặt lên, đón",,Could you pick up the package from the post office?
+2,2,Revise,"sửa đổi, ôn tập",,The author decided to revise the manuscript before publishing.
+2,2,Cover under warranty,bảo hành,,Repairs are covered under the warranty for the first year.
+2,2,Interior,"bên trong, nội thất",,The interior of the car is spacious and comfortable.
+2,2,Binder,"bìa kẹp, bìa tài liệu",,Please organize the documents in this binder.
+2,2,Sample,mẫu,,Customers can try a free sample of the product before buying.
+2,2,Give sb a tour,dẫn ai đi tham quan,,The manager gave the new employees a tour of the facility.
+2,2,Property,"tài sản, bất động sản",,The property was sold for a record price at the auction.
+2,3,Dock,"bến tàu, cập bến",,The ship docked at the port early this morning.
+2,3,Avoid,tránh,,Drivers should avoid the road due to heavy traffic.
+2,3,Behind schedule,trễ tiến độ,,The project is behind schedule due to unforeseen issues.
+2,3,Failure,thất bại,,The engine failure caused a significant delay in operations.
+2,3,Machinery,máy móc,,The factory invested in new machinery to improve productivity.
+2,3,Lift,"nâng lên, thang máy",,The workers used a crane to lift the heavy materials onto the truck.
+2,3,Work on sth,làm việc với,,The team is currently working on improving the product design.
+2,3,Landscape,"phong cảnh, làm vườn",,The landscape around the villa is breathtaking.
+2,3,Acquire,"đạt được, mua",,She acquired a new skill during the training program.
+2,3,Significant,"quan trọng, đáng kể",,The new policy has brought significant changes to the company.
+2,3,Investigate,điều tra,,The police are investigating the cause of the accident.
+2,3,Stunning,tuyệt đẹp,,The view from the mountain is absolutely stunning.
+2,3,Unveil,"tiết lộ, ra mắt",,The company will unveil its latest product at the trade fair.
+2,3,Art restorer,người phục chế nghệ thuật,,The art restorer worked meticulously on the damaged painting.
+2,3,Prefer,thích hơn,,I prefer tea to coffee in the morning.
+2,3,Handout,tài liệu phát tay,,The instructor distributed a handout with the lecture notes.
+2,3,Impact,tác động,,The new regulations have had a significant impact on small businesses.
+2,3,Itinerary,lịch trình,,The tour guide shared the itinerary with the group before departure.
+2,3,Mandatory,bắt buộc,,Wearing a helmet is mandatory for all motorcyclists.
+2,3,Casual,"bình thường, không trang trọng",,The dress code for the party is casual.
+2,3,Fill sb position,lấp vị trí,,The company is looking for someone to fill the vacant position.
+2,3,Extended,kéo dài,,The extended deadline allowed the team to complete the project.
+2,3,Gain,"đạt được, sự tăng",,Regular exercise helps you gain strength and endurance.
+2,3,Segment,"phân đoạn, khúc",,Each segment of the program is designed to focus on a specific topic.
+2,3,State-of-the-art,hiện đại nhất,,The hospital is equipped with state-of-the-art medical technology.
+2,3,Athlete,vận động viên,,The athlete won a gold medal at the Olympics.
+2,3,Compete,cạnh tranh,,Many teams are competing for the championship title.
+2,3,Career path,con đường sự nghiệp,,She chose a career path in engineering.
+2,3,Delighted,vui mừng,,I was delighted to receive your invitation to the event.
+2,3,Institute,"học viện, thiết lập",,The government plans to institute new policies to improve education.
+2,3,Goal,mục tiêu,,Her primary goal is to complete her master's degree next year.
+2,3,Draft,"bản nháp, phác thảo",,He shared a draft of the report with his colleagues for feedback.
+2,3,Allocate,phân bổ,,The manager allocated the funds to the marketing department.
+2,3,Fund,"quỹ, tài trợ",,The organization raised a fund to support underprivileged children.
+2,3,Preliminary,"sơ bộ, ban đầu",,The preliminary results of the study are very promising.
+2,3,Findings,kết quả nghiên cứu,,The findings of the survey will be published in next month’s report.
+2,3,Credit card,thẻ tín dụng,,She used her credit card to pay for the online purchase.
+2,3,Keep track of,theo dõi,,It's essential to keep track of expenses to maintain a budget.
+2,3,Alert,"cảnh báo, cảnh giác",,The weather service issued an alert about the incoming storm.
+2,3,Inventory,hàng tồn kho,,The store conducts an inventory check every month.
+2,3,Stock,"hàng hóa, dự trữ",,The warehouse is stocked with all the necessary materials.
+2,3,Irrigation,sự tưới tiêu,,Efficient irrigation systems are crucial for agriculture in arid regions.
+2,3,Figure out,tìm ra,,We need to figure out how to increase production without raising costs.
+2,3,Orchard,vườn cây ăn quả,,The orchard was full of ripe apples ready for harvesting.
+2,3,Lawn,bãi cỏ,,The children were playing on the lawn in front of the house.
+2,3,Transplant,cấy ghép,,Farmers transplanted the seedlings into larger pots.
+2,3,Terrible,kinh khủng,,The weather was so terrible that we decided to stay indoors.
+2,3,Manual,"sách hướng dẫn, thủ công",,The machine comes with a user manual for easy installation.
+2,3,On schedule,đúng tiến độ,,The construction project is progressing on schedule.
+2,3,Suit,phù hợp,,This new dress suits you perfectly.
+2,3,Prize,giải thưởng,,She won the first prize in the photography competition.
+2,3,Preferred,được ưu tiên,,Early morning is my preferred time for jogging.
+2,3,Ahead of time,trước thời hạn,,Please submit the application ahead of time to avoid delays.
+2,4,Package,"gói hàng, đóng gói",,The package was delivered to my doorstep this morning.
+2,4,Gallery,phòng trưng bày,,The art gallery features works by contemporary artists.
+2,4,Occasion,dịp,,We met on the occasion of her birthday celebration.
+2,4,Digital,kỹ thuật số,,The digital clock displays the time accurately to the second.
+2,4,Guarantee,đảm bảo,,The company offers a one-year guarantee on all their products.
+2,4,Caterer,nhà cung cấp thực phẩm,,The caterer prepared an elaborate menu for the wedding reception.
+2,4,Have sth done,nhờ ai làm gì,,I had my car repaired by a trusted mechanic.
+2,4,Signature,chữ ký,,Please put your signature at the bottom of the contract.
+2,4,Warranty,bảo hành,,The laptop comes with a two-year warranty.
+2,4,Newsletter,bản tin,,Subscribe to our newsletter to receive the latest updates.
+2,4,Patient,"bệnh nhân, kiên nhẫn",,The patient waited calmly for the doctor to arrive.
+2,4,Known,được biết đến,,The city is known for its vibrant culture and history.
+2,4,Try out,thử nghiệm,,We should try out this new recipe for dinner tonight.
+2,4,Stimulation,sự kích thích,,Proper stimulation can enhance a child’s learning ability.
+2,4,Look for,tìm kiếm,,I'm looking for my keys; I can’t remember where I left them.
+2,4,Determine,xác định,,The investigation will determine the cause of the accident.
+2,4,Recruit,"tuyển dụng, tân binh",,The company plans to recruit new employees for the project.
+2,4,Innovative,sáng tạo,,The team came up with an innovative solution to the problem.
+2,4,Dependable,đáng tin cậy,,She is a dependable colleague who always meets deadlines.
+2,4,Upcoming,sắp tới,,We’re preparing for the upcoming product launch next month.
+2,4,Executive,"giám đốc điều hành, điều hành",,The executive team will discuss the company's future strategy.
+2,4,Prepped,chuẩn bị sẵn sàng,,She prepped thoroughly for the presentation.
+2,4,Launch,"ra mắt, phóng",,The company will launch its new app next week.
+2,4,Ingredient,thành phần,,Fresh ingredients are key to making a delicious meal.
+2,4,Inspection,sự kiểm tra,,The safety inspection will be conducted tomorrow morning.
+2,4,Suburb,vùng ngoại ô,,They moved to a quiet suburb to raise their children.
+2,4,Metropolitan area,khu vực đô thị,,The metropolitan area has excellent public transport connections.
+2,4,Voice,bày tỏ,,Employees were encouraged to voice their opinions during the meeting.
+2,4,Clutter,"bừa bộn, làm lộn xộn",,Please clear the clutter from your desk before the meeting.
+2,4,Neat,gọn gàng,,Her handwriting is always very neat and easy to read.
+2,4,Mess,tình trạng bừa bộn,,The kitchen was a mess after the party.
+2,4,Adjust,điều chỉnh,,You can adjust the seat height by turning this knob.
+2,4,Narrow,"hẹp, thu hẹp",,The bridge is too narrow for large vehicles.
+2,4,Assemble,"lắp ráp, tụ họp",,It took him hours to assemble the new furniture.
+2,4,Collaborate,hợp tác,,The two companies collaborated to develop a new product.
+2,4,Renowned,nổi tiếng,,The chef is renowned for his innovative culinary techniques.
+2,4,Rave,khen ngợi,,Critics gave the movie rave reviews.
+2,4,Criticize,chỉ trích,,He was criticized for his lack of leadership skills.
+2,4,Underway,đang tiến hành,,Construction of the new bridge is currently underway.
+2,4,Shortly,"ngay lập tức, nhanh chóng",,The meeting will begin shortly.
+2,4,Proceed,tiếp tục,,"After a short break, we will proceed with the presentation."
+2,4,Pass,vé,,You need a pass to enter the restricted area.
+2,4,Press conference,cuộc họp báo,,The CEO addressed the issues during the press conference.
+2,4,Terminal,nhà ga,,The airport terminal was crowded with travelers.
+2,4,Anticipate,dự đoán,,The company anticipates increased sales during the holiday season.
+2,4,Reporter,phóng viên,,The reporter interviewed the mayor about the new policy.
+3,1,Oven,lò nướng,,The cake is baking in the oven.
+3,1,Cabinet,tủ,,The cabinet is full of dishes and glasses.
+3,1,Towel,khăn,,She dried her hair with a clean towel.
+3,1,Trash,"rác, vứt bỏ",,Please take out the trash before leaving the house.
+3,1,Take off,"cởi (đồ), cất cánh",,The plane will take off at 6 PM.
+3,1,Face,"đối mặt, quay mặt về hướng",,The house faces the beautiful mountain range.
+3,1,Shelving unit,giá kệ,,The new shelving unit provides plenty of space for books and decorations.
+3,1,Gather,tập hợp,,The kids gathered around the teacher to hear the story.
+3,1,Lay out,"bố trí, trình bày",,She laid out the documents neatly on the table.
+3,1,Railing,"lan can, tay vịn",,Hold onto the railing while climbing the stairs.
+3,1,Under construction,đang xây dựng,,The bridge is currently under construction and will open next year.
+3,1,Sheet of metal,tấm kim loại,,A large sheet of metal was used for the roof.
+3,1,Lean against,tựa vào,,He leaned against the wall while waiting for the bus.
+3,1,Pile,"chồng, chất đống",,There’s a pile of clothes on the chair.
+3,1,Branch,"cành cây, chi nhánh",,The bird built its nest on a high branch.
+3,1,Discard,vứt bỏ,,He discarded the old magazines to make room for new ones.
+3,1,Bench,ghế dài,,The park bench was newly painted.
+3,1,Structure,"cấu trúc, công trình",,The Eiffel Tower is a famous structure in Paris.
+3,2,Flour,bột mì,,She added flour to the dough to make bread.
+3,2,Out of stock,hết hàng,,The item is currently out of stock but will be restocked soon.
+3,2,Catering,dịch vụ ăn uống,,The company hired a catering service for the office party.
+3,2,Vegetarian,ăn chay/người ăn chay,,They prepared a vegetarian menu for the guests.
+3,2,Delicious,ngon miệng,,The cake was absolutely delicious.
+3,2,Networking event,sự kiện kết nối,,The networking event helped professionals connect with potential clients.
+3,2,Pair of shoes,đôi giày,,She bought a new pair of shoes for the wedding.
+3,2,Checkup,kiểm tra sức khỏe,,He went to the doctor for an annual checkup.
+3,2,Corner,góc,,There’s a small shop at the corner of the street.
+3,2,Reusable,có thể tái sử dụng,,The reusable bags are better for the environment.
+3,2,Ink cartridge,hộp mực in,,The printer needs a new ink cartridge to function properly.
+3,2,Receipt,hóa đơn,,Keep the receipt in case you need to return the item.
+3,2,Power cable,dây nguồn,,The laptop won’t charge because the power cable is damaged.
+3,2,Power button,nút nguồn,,Press the power button to turn on the device.
+3,2,Take a walk,đi dạo,,She decided to take a walk in the park to relax.
+3,2,Tracker,thiết bị theo dõi,,The fitness tracker records the number of steps you take each day.
+3,2,Dealership,đại lý,,He went to the car dealership to buy a new vehicle.
+3,2,Rent,thuê,,She rents an apartment close to her workplace.
+3,2,Lease,hợp đồng thuê,,The building is available for lease at a reasonable price.
+3,2,Maintenance,bảo trì,,Regular maintenance of the vehicle ensures its longevity.
+3,2,Roadwork,công trình làm đường,,Expect delays due to ongoing roadwork in this area.
+3,2,Hall,"sảnh, hội trường",,The graduation ceremony will be held in the main hall.
+3,2,Inspection,kiểm tra,,The safety inspection is scheduled for next week.
+3,2,Supervisor,người giám sát,,The supervisor is responsible for ensuring the team meets its targets.
+3,2,Festival,lễ hội,,The annual music festival attracts thousands of visitors.
+3,2,Coupon,phiếu giảm giá,,She used a coupon to get a discount on her purchase.
+3,2,Cabinet,tủ,,The kitchen cabinet is stocked with dishes and cooking supplies.
+3,2,Quite,"khá, hoàn toàn",,She’s quite excited about her new job.
+3,2,Postpone,hoãn lại,,The meeting was postponed to next week due to unforeseen circumstances.
+3,2,Figure,"con số, tính toán",,The sales figures for this quarter look promising.
+3,2,Therapist,nhà trị liệu,,She is seeing a therapist to help her manage stress.
+3,2,Pick up,"nhặt lên, đón",,I’ll pick you up at the airport at 7 PM.
+3,2,Demonstration,"sự minh họa, trình diễn",,The demonstration of the new product attracted many customers.
+3,2,Aisle seat,ghế gần lối đi,,She prefers an aisle seat when traveling on long flights.
+3,2,Official,"viên chức, chính thức",,The official announced the new policies during the press conference.
+3,3,Expand,mở rộng,,The company plans to expand its operations into Asia.
+3,3,Handbook,sổ tay,,The employee handbook contains all the policies and procedures.
+3,3,Trade show,triển lãm thương mại,,The trade show showcased the latest innovations in the tech industry.
+3,3,Cover,"che phủ, bìa",,The insurance policy covers damage caused by natural disasters.
+3,3,Organizer,người tổ chức,,The event organizer ensured everything went smoothly.
+3,3,Participant,người tham gia,,Each participant received a certificate of completion.
+3,3,Pleased,hài lòng,,She was pleased with the results of her exam.
+3,3,Turnout,số người tham gia,,The turnout for the conference was much higher than expected.
+3,3,Executive,"giám đốc, điều hành",,The executive team made crucial decisions about the company’s future.
+3,3,Vendor,người bán hàng,,Vendors set up their stalls at the market early in the morning.
+3,3,Refreshment,đồ ăn nhẹ,,Refreshments will be served during the break.
+3,3,Specific,cụ thể,,Can you provide more specific details about the project?
+3,3,Streamline,tinh giản,,The company streamlined its processes to reduce costs.
+3,3,Material,"tài liệu, vật liệu",,The instructor handed out the training materials to all participants.
+3,3,Investment,sự đầu tư,,Investing in education is the best investment for the future.
+3,3,Cost estimate,ước tính chi phí,,The contractor provided a cost estimate for the renovation project.
+3,3,Revise,chỉnh sửa,,The document needs to be revised before it is published.
+3,3,Catch a train,bắt tàu,,She left early to catch the train to London.
+3,3,Platform,sân ga,,The train to Paris departs from platform 5.
+3,3,Track,đường ray,,The train track was temporarily closed for maintenance.
+3,3,Upset,"buồn, bực bội",,She was upset about missing the meeting.
+3,3,Shuttle bus,xe buýt đưa đón,,The hotel provides a shuttle bus to the airport for guests.
+3,3,Escalator,thang cuốn,,Take the escalator to the second floor of the shopping mall.
+3,3,Conduct an inspection,tiến hành kiểm tra,,The team conducted an inspection to ensure safety compliance.
+3,3,Misunderstand,hiểu nhầm,,Don’t misunderstand my intentions; I only want to help.
+3,3,Board,"lên tàu, máy bay",,Passengers are requested to board the plane through gate 4.
+3,3,File a complaint,nộp đơn khiếu nại,,"If the service was unsatisfactory, you can file a complaint."
+3,3,Tough,"khó khăn, cứng rắn",,"The job is tough, but it’s also very rewarding."
+3,3,Rack,giá đỡ,,Coats were neatly hung on the rack by the door.
+3,3,Adjust,điều chỉnh,,You can adjust the chair height for better comfort.
+3,3,Determine,xác định,,The test results will determine whether additional treatment is needed.
+3,3,Reasonable,hợp lý,,The price for this service is reasonable.
+3,3,Make decisions,đưa ra quyết định,,Executives are expected to make decisions quickly in critical situations.
+3,3,Prototype,nguyên mẫu,,The team developed a prototype of the new device for testing.
+3,3,Persuade,thuyết phục,,He tried to persuade her to join the project.
+3,3,Prioritize,"sự riêng tư, quyền riêng tư",,Employees’ privacy is a top priority for the HR department.
+3,3,In the process of,ưu tiên,,We need to prioritize the most urgent tasks before the deadline.
+3,3,Territory,trong quá trình,,The company is in the process of implementing a new accounting system.
+3,3,Assemble,lắp ráp,,The workers assembled the new furniture in less than an hour.
+3,3,Lightweight,nhẹ,,"This laptop is lightweight, making it ideal for travel."
+3,3,Certificate,chứng chỉ,,Each participant will receive a certificate of attendance.
+3,3,Evaluate,đánh giá,,The manager will evaluate your performance at the end of the quarter.
+3,3,Head over,đi tới,,Let’s head over to the conference room for the meeting.
+3,3,Ruin,"phá hỏng, tàn tích",,The heavy rain ruined our outdoor plans.
+3,3,Intern,thực tập sinh,,The company hired five interns for the summer program.
+3,3,Shortage,sự thiếu hụt,,There is a shortage of skilled workers in the construction industry.
+3,3,Revenue,doanh thu,,The company’s annual revenue exceeded expectations.
+3,3,Script,kịch bản,,The actors rehearsed the script several times before the performance.
+3,3,Come along,"đến, xuất hiện",,How’s the new project coming along?
+3,3,Retire,nghỉ hưu,,He plans to retire at the age of 65.
+3,3,Caterer,nhà cung cấp thực phẩm,,The caterer provided a variety of options for the company event.
+3,3,Retreat,buổi nghỉ dưỡng,,The team attended a retreat to focus on planning next year’s goals.
+3,3,Wrap up,hoàn thành,,Let’s wrap up this meeting before 5 PM.
+3,3,Capability,khả năng,,The team demonstrated exceptional capability in solving the crisis.
+3,3,Peel,"gọt, bóc vỏ",,Please peel the potatoes before cooking them.
+3,3,Dock,"bến tàu, cập bến",,The ship docked at the harbor early this morning.
+3,3,Patient,"bệnh nhân, kiên nhẫn",,The doctor advised the patient to rest for a few days.
+3,3,Attract,thu hút,,The exhibition attracted a large crowd of visitors.
+3,3,Procedure,quy trình,,Follow the correct procedure to ensure safety during operation.
+3,3,Mug,cốc,,She sipped her coffee from a large mug.
+3,3,Appreciate,"đánh giá cao, cảm kích",,I really appreciate your help with this project.
+3,3,Bulk,số lượng lớn,,Buying in bulk is often more economical.
+3,3,In bulk,với số lượng lớn,,The store offers discounts for customers who buy in bulk.
+3,3,Alter,thay đổi,,She decided to alter the dress to fit better.
+3,3,Alert,"cảnh báo, cảnh giác",,The system alerted the staff about the data breach.
+3,3,Glitch,trục trặc,,"The program experienced a glitch, causing a temporary delay."
+3,4,Proud,tự hào,,She felt proud of her accomplishments.
+3,4,Affordable,hợp túi tiền,,This store offers high-quality products at affordable prices.
+3,4,Dedication,sự tận tâm,,His dedication to his work earned him a promotion.
+3,4,Award,"giải thưởng, trao thưởng",,She received an award for her outstanding performance.
+3,4,Principle,nguyên tắc,,Honesty is a fundamental principle in her work.
+3,4,Approach,phương pháp,,Their approach to solving the problem was innovative.
+3,4,Real estate,bất động sản,,He invested in real estate to grow his wealth.
+3,4,Complicated,phức tạp,,The instructions were too complicated to follow.
+3,4,Brighten,làm sáng lên,,A fresh coat of paint will brighten the room.
+3,4,Reliever,vật/người làm dịu,,Yoga is a great stress reliever after a long day.
+3,4,Relieve,làm dịu đi,,This medicine will relieve your headache.
+3,4,Vending machine,máy bán hàng tự động,,I bought a snack from the vending machine at the station.
+3,4,Abandon,"từ bỏ, bỏ rơi",,He decided to abandon the project due to lack of funding.
+3,4,Makeover,sự thay đổi diện mạo,,The house got a complete makeover before it was sold.
+3,4,Convert into,chuyển đổi thành,,They converted the warehouse into a trendy café.
+3,4,Elect,bầu cử,,She was elected as the president of the committee.
+3,4,Press conference,buổi họp báo,,The mayor will hold a press conference to address the recent issues.
+3,4,Press release,thông cáo báo chí,,The company issued a press release about its new product launch.
+3,4,Tunnel,đường hầm,,"The car passed through a long, dark tunnel."
+3,4,Repave,lát lại,,The city plans to repave the main road next week.
+3,4,Press (n),báo chí,,The press reported extensively on the recent election.
+3,4,Entrepreneur,doanh nhân,,The entrepreneur started a new company focused on renewable energy.
+3,4,Sluggish,chậm chạp,,The sluggish economy is affecting consumer spending.
+3,4,Accelerate,tăng tốc,,The car began to accelerate as it entered the highway.
+3,4,Vary,thay đổi,,The prices of these products vary depending on the season.
+3,4,Clog,làm tắc,,Hair and grease can clog the sink if not cleaned regularly.
+3,4,Take a look,xem qua,,Could you take a look at this document before we send it out?
+3,4,Parade,cuộc diễu hành,,The annual parade attracted thousands of spectators.
+3,4,Profitable,có lợi,,The business became profitable within its first year of operation.
+3,4,Designate,chỉ định,,She was designated as the team leader for this project.
+3,4,Prompt,"thúc giục, nhanh chóng",,The manager’s prompt response helped resolve the issue quickly.
+4,1,Pour,"rót, đổ",,She poured the coffee into a cup.
+4,1,Liquid,chất lỏng,,Water is a liquid essential for life.
+4,1,Iron,"bàn là, là (quần áo)",,I need to iron my shirt before the meeting.
+4,1,Glance,liếc nhìn,,He gave a quick glance at the clock and realized he was late.
+4,1,Jar,"lọ, hũ",,She opened a jar of strawberry jam for breakfast.
+4,1,Monitor,"màn hình, giám sát",,The security team monitors the cameras 24/7.
+4,1,Wipe off,lau chùi,,Please wipe off the table before serving dinner.
+4,1,Float,nổi,,The boat floated gently on the calm water.
+4,1,Cargo,hàng hóa,,The ship is carrying cargo to Europe.
+4,1,Lighthouse,ngọn hải đăng,,The lighthouse guides ships safely to the harbor.
+4,1,Row,"hàng, chèo thuyền",,They sat in the front row of the theater.
+4,1,Fireplace,lò sưởi,,The fireplace kept the room warm during the winter.
+4,1,Cable,dây cáp,,The TV cable needs to be replaced for a better signal.
+4,1,Pile,"đống, chồng chất",,He placed a pile of books on the desk.
+4,1,Pack,"đóng gói, balô",,She packed her suitcase for the trip.
+4,1,Fall over,"ngã, đổ",,Be careful; the ladder might fall over if you lean too far.
+4,1,Couch,ghế sofa,,They sat on the couch and watched a movie.
+4,1,Ceiling,trần nhà,,The room had a high ceiling with decorative beams.
+4,1,Stack,"chồng, xếp chồng",,The library shelves were neatly stacked with books.
+4,2,Supplier,nhà cung cấp,,The supplier delivered the goods on time.
+4,2,Make the reservation,"đặt chỗ, đặt trước",,We need to make the reservation for the hotel before our trip.
+4,2,Locker room,phòng thay đồ,,The team met in the locker room before the game started.
+4,2,Certain,"chắc chắn, một vài",,She was certain about her decision to pursue higher education.
+4,2,Lobby,"sảnh, hành lang",,Guests were waiting in the hotel lobby for their check-in.
+4,2,Continent,lục địa,,Asia is the largest continent on Earth.
+4,2,Expedite,"xúc tiến, đẩy nhanh",,The manager wants to expedite the approval process for the project.
+4,2,Expedited delivery,giao hàng nhanh,,We chose expedited delivery to receive the package sooner.
+4,2,Sales associate,nhân viên bán hàng,,The sales associate helped me find the right size for the jacket.
+4,2,Handout,tài liệu phát tay,,The teacher distributed handouts to explain the course materials.
+4,2,Pursue,theo đuổi,,She decided to pursue a career in medicine.
+4,2,Reception desk,quầy lễ tân,,Please check in at the reception desk upon arrival.
+4,2,Speech,bài phát biểu,,He delivered an inspiring speech at the conference.
+4,2,Package,"gói hàng, đóng gói",,The package was delivered to the customer this morning.
+4,2,Mark down,giảm giá,,The store marked down all winter clothing for the clearance sale.
+4,2,Significant,"quan trọng, đáng kể",,This decision will have a significant impact on our company's future.
+4,2,Surplus,"thặng dư, dư thừa",,The warehouse has a surplus of inventory that needs to be sold.
+4,3,Ferry,"phà, tàu phà",,The ferry departs every hour from the dock.
+4,3,Authority,"thẩm quyền, chính quyền",,Local authorities are working to improve the public transport system.
+4,3,Suspend,"đình chỉ, tạm ngưng",,The company decided to suspend all operations due to safety concerns.
+4,3,Marine,"thuộc về biển, hải quân",,The marine ecosystem is extremely sensitive to pollution.
+4,3,Rough water,"biển động, sóng lớn",,The ferry ride was delayed due to rough water conditions.
+4,3,Pass in,"nộp, gửi",,Please pass in your assignments before leaving the classroom.
+4,3,Terminal,"nhà ga, trạm",,We arrived at the airport terminal two hours before the flight.
+4,3,Understaff,thiếu nhân lực,,The hospital is currently understaffed and looking to hire more nurses.
+4,3,Overdue,quá hạn,,The overdue bills must be paid immediately.
+4,3,Librarian,thủ thư,,The librarian helped me find the book I was looking for.
+4,3,Price quote,báo giá,,Can you provide me with a price quote for the catering service?
+4,3,Catering,dịch vụ cung cấp thực phẩm,,The catering company prepared meals for the wedding reception.
+4,3,Deposit,"tiền đặt cọc, đặt cọc",,You need to pay a deposit to reserve the apartment.
+4,3,Sample,"mẫu thử, thử",,The sales representative gave us a sample of the product.
+4,3,State-of-the-art,hiện đại nhất,,The gym features state-of-the-art fitness equipment.
+4,3,Treadmill,máy chạy bộ,,She prefers running on a treadmill rather than outside.
+4,3,Consider,"cân nhắc, xem xét",,You should consider the risks before investing in the stock market.
+4,3,Brochure,"tờ rơi, tài liệu quảng cáo",,The travel agency handed out brochures with information about the tour packages.
+4,3,Lease,"hợp đồng thuê, thuê",,The couple signed a two-year lease for the apartment.
+4,3,Rent,"tiền thuê, thuê",,We decided to rent a car for our weekend trip.
+4,3,Quite,"khá, hoàn toàn",,The presentation was quite interesting and informative.
+4,3,Afford,có khả năng chi trả,,She cannot afford to buy a new car at the moment.
+4,3,Tenant,người thuê nhà,,The tenant reported a plumbing issue to the property manager.
+4,3,Carpenter,thợ mộc,,A skilled carpenter built the custom shelves for the library.
+4,3,Interior,"nội thất, bên trong",,The interior of the house was beautifully decorated.
+4,3,Drop off,"đưa đến, để lại",,Can you drop off the documents at the front desk on your way out?
+4,3,Log,"nhật ký, ghi lại",,He logged his working hours in the company’s tracking system.
+4,3,Perhaps,có lẽ,,Perhaps we should leave early to avoid traffic.
+4,3,Ballroom,phòng khiêu vũ,,The company hosted a gala dinner in the hotel’s ballroom.
+4,3,Acknowledge,"thừa nhận, xác nhận",,He acknowledged the mistake and apologized for the inconvenience.
+4,3,Exposition,"triển lãm, hội chợ",,The art exposition showcased works from various contemporary artists.
+4,3,Adjust,điều chỉnh,,He adjusted the chair to make it more comfortable.
+4,3,Roof,mái nhà,,The roof was damaged during the storm and needs repairs.
+4,3,Inspection,"kiểm tra, thanh tra",,The building passed the safety inspection without any issues.
+4,3,Conduct an inspection,tiến hành kiểm tra,,The supervisor will conduct an inspection of the construction site tomorrow.
+4,3,Thorough,"kỹ lưỡng, toàn diện",,She gave a thorough explanation of the new policy during the meeting.
+4,3,Intact,nguyên vẹn,,The ancient vase was discovered intact after thousands of years.
+4,3,Shingle,"ngói, ván lợp mái",,The strong winds blew some shingles off the roof.
+4,3,Blow away,"cuốn đi, làm kinh ngạc",,The performance was so incredible it blew everyone away.
+4,3,Relief,"sự giảm nhẹ, nhẹ nhõm",,The medication provided quick relief from the headache.
+4,3,Major,"quan trọng, chủ yếu",,This is a major breakthrough in medical research.
+4,3,Fence,hàng rào,,They built a wooden fence around their backyard.
+4,3,Minor,"nhỏ, không quan trọng",,The changes made to the document were minor and did not affect the main content.
+4,3,Forecast,dự báo,,"According to the weather forecast, it will rain tomorrow."
+4,3,Measurement,sự đo lường,,The carpenter took precise measurements for the custom shelves.
+4,3,Commute,"đi lại, quãng đường đi làm",,Her daily commute to the office takes about an hour.
+4,3,Horrendous,"kinh khủng, tồi tệ",,The traffic during rush hour is absolutely horrendous.
+4,3,Send out,gửi đi,,The company sent out invitations for the annual meeting.
+4,3,Aware of,"nhận thức, ý thức về",,He was not aware of the risks involved in the project.
+4,3,Badge,"thẻ, huy hiệu",,Employees are required to wear their ID badges at all times.
+4,3,Assumption,"giả định, sự cho rằng",,His assumption about the project timeline was incorrect.
+4,3,Express,bày tỏ,,She expressed her gratitude for the support she received.
+4,3,Justify,biện minh,,Can you justify the additional expenses in the budget report?
+4,3,Activate,kích hoạt,,You need to activate your account before using the app.
+4,3,Forward,chuyển tiếp,,I will forward the email to you as soon as I receive it.
+4,3,Firm,"công ty, chắc chắn",,The firm is known for its innovative business solutions.
+4,3,Clientele,nhóm khách hàng,,The restaurant attracts a diverse clientele from all over the city.
+4,3,Reject,từ chối,,The committee decided to reject the proposal due to budget constraints.
+4,3,Clarification,sự làm rõ,,Could you provide clarification on the points mentioned in the report?
+4,3,Rehearsal,buổi tập dượt,,The cast gathered for a final rehearsal before the opening night.
+4,3,Distract,"làm xao lãng, phân tâm",,Loud noises can easily distract students during exams.
+4,3,Costume,trang phục,,The actors wore traditional costumes for the historical play.
+4,3,Publicity,"sự công khai, quảng bá",,The event received a lot of publicity in the local media.
+4,3,Archaeologist,nhà khảo cổ học,,The archaeologist discovered ancient artifacts during the excavation.
+4,3,Dig,"đào, sự đào bới",,They started to dig the site for archaeological research.
+4,3,Footage,"đoạn phim, cảnh quay",,The surveillance footage helped solve the case.
+4,3,Capture,"ghi lại, bắt giữ",,The photographer managed to capture a beautiful sunset.
+4,3,Pottery,đồ gốm,,The museum has an impressive collection of ancient pottery.
+4,3,Unearth,khai quật,,The team managed to unearth valuable historical artifacts.
+4,3,Length,chiều dài,,The length of the bridge is approximately two kilometers.
+4,3,Thunderstorm,cơn giông,,The flight was delayed due to a severe thunderstorm in the area.
+4,3,Slow down,làm chậm lại,,Drivers are advised to slow down in school zones.
+4,3,Documentary,phim tài liệu,,The documentary explored the effects of climate change on wildlife.
+4,3,Reach,"liên hệ, đạt được",,Please reach out to me if you need any assistance.
+4,3,Electrical outage,mất điện,,The electrical outage lasted for over three hours.
+4,3,On-site,tại chỗ,,All employees are expected to work on-site this week.
+4,3,Off-site,"ngoài site, ngoài công ty",,The team will have an off-site meeting tomorrow.
+4,3,Restore,khôi phục,,The IT team worked to restore the system after the crash.
+4,3,Utility,tiện ích,,The building offers various utilities such as water and electricity.
+4,3,Manual,"hướng dẫn, thủ công",,The manual explains how to assemble the product.
+4,3,Internal,nội bộ,,The internal communication system needs to be improved.
+4,3,Involve,"tham gia, bao gồm",,The project will involve several departments working together.
+4,3,Shut down,"tắt, đóng cửa",,They decided to shut down the factory for maintenance.
+4,3,Keep track of,theo dõi,,It's important to keep track of your expenses during the trip.
+4,3,Inventory,"tồn kho, kiểm kê",,The store will conduct an inventory check next week.
+4,3,Entrance,lối vào,,The entrance to the building is on the left side.
+4,3,Widen,"làm rộng, mở rộng",,The company plans to widen its range of services.
+4,3,Follow up,"theo dõi, tiếp tục",,I need to follow up on the status of my application.
+4,3,Complimentary,"miễn phí, biếu tặng",,They offered complimentary drinks to all the attendees.
+4,3,Back and forth,qua lại,,The meeting went back and forth with many ideas being discussed.
+4,3,Alternative,"thay thế, phương án thay thế",,We need to find an alternative solution to this problem.
+4,3,Retain,giữ lại,,The company aims to retain its best employees with new incentives.
+4,3,Exclusive,"độc quyền, dành riêng",,The club is an exclusive members-only establishment.
+4,3,Potential,tiềm năng,,This candidate has great potential for growth within the company.
+4,3,Career path,con đường sự nghiệp,,Choosing the right career path can greatly influence your future.
+4,3,Hospitality,lòng hiếu khách,,The hotel is known for its excellent hospitality.
+4,3,Willing,"sẵn lòng, tình nguyện",,She was willing to help me with the project.
+4,3,Carpool,đi chung xe,,We decided to carpool to the office to save on gas.
+4,3,Focus on,tập trung vào,,We need to focus on improving customer satisfaction.
+4,3,Mural,bức tranh tường,,The artist painted a beautiful mural on the side of the building.
+4,3,Statue,bức tượng,,The statue of liberty stands tall on Liberty Island.
+4,3,Motivate,thúc đẩy,,She tries to motivate her team with positive feedback.
+4,3,Rail,"đường ray, lan can",,The train travels on metal rails.
+4,3,"Initial (n, adj)","ban đầu, khởi đầu",,The initial meeting was very productive.
+4,3,Ultimately,cuối cùng,,"Ultimately, the decision will be made by the board of directors."
+4,3,Straightforward,"đơn giản, dễ hiểu",,The instructions were straightforward and easy to follow.
+4,3,Resident,cư dân,,The residents of the building were notified about the renovation work.
+4,3,Vendor,"người bán, nhà cung cấp",,The vendor at the market sells fresh produce every morning.
+4,3,Artwork,tác phẩm nghệ thuật,,The gallery is showcasing several pieces of contemporary artwork.
+4,3,Incorporate,"kết hợp, sáp nhập",,The new system will incorporate several features to improve performance.
+4,3,Element,"yếu tố, thành phần",,Air is one of the essential elements of life.
+4,3,Insulate,"cách ly, cách nhiệt",,The house is well-insulated to maintain a comfortable temperature.
+4,3,Repurpose,"tái sử dụng, chuyển đổi mục đích",,The company plans to repurpose old machinery for new projects.
+5,1,Carry,"mang, vác, cầm",,She carried a box of books into the room.
+5,1,Push,đẩy,,You need to push the door to open it.
+5,1,Pull,kéo,,He pulled the rope to bring the boat closer.
+5,1,Bench,băng ghế,,They sat on a bench in the park to enjoy the view.
+5,1,Hike,"đi bộ đường dài, đi leo núi",,We plan to hike up the mountain this weekend.
+5,1,Path,đường mòn,,The hiking path was surrounded by beautiful trees.
+5,1,Backpack,ba lô,,She packed her books into her backpack and headed to school.
+5,1,Laces,dây giày,,He tied his laces tightly before going for a run.
+5,1,Tunnel,đường hầm,,The train passed through a dark tunnel on its way to the city.
+5,1,Plug,"phích cắm, cắm",,Make sure to plug the charger into the wall socket.
+5,1,Cord,"dây cáp, dây",,The lamp stopped working because the cord was damaged.
+5,1,Kneel down,quỳ xuống,,He kneeled down to tie his shoelaces.
+5,1,Trim,cắt tỉa,,She trimmed the bushes in the garden to keep them neat.
+5,1,Fold,"gấp, xếp",,Fold the paper in half before placing it in the envelope.
+5,1,Stack,"xếp chồng, chồng",,The chairs were stacked neatly in the corner.
+5,1,Suspend,"treo, đình chỉ",,The lamp was suspended from the ceiling by a chain.
+5,1,Light fixture,đèn cố định,,The light fixture in the dining room needs to be replaced.
+5,1,Pile,"đống, chất đống",,The books were piled on the table.
+5,1,Roll up,"cuộn lên, gấp gọn",,Roll up the blanket before putting it in the bag.
+5,1,Rug,thảm,,She bought a colorful rug for the living room floor.
+5,2,Closet,"tủ quần áo, phòng chứa đồ",,She hung her coat in the closet before sitting down.
+5,2,Mural,tranh tường,,The mural on the city wall depicts the town's history beautifully.
+5,2,Ladder,cái thang,,He climbed the ladder to fix the roof tiles.
+5,2,Recital,"buổi biểu diễn (thơ, nhạc)",,"The piano recital was a great success, with many attending to support the performers."
+5,2,Headsets,tai nghe có micro,,The employees were given headsets to communicate more effectively during the meeting.
+5,2,Hallway,hành lang,,She walked through the hallway to get to her classroom.
+5,2,Assembly,"cuộc họp, sự lắp ráp",,The school held an assembly to discuss the upcoming event.
+5,2,Take note,"ghi chú, lưu ý",,Please take note of the changes in the schedule.
+5,2,Extend,"mở rộng, kéo dài",,They decided to extend the deadline by two weeks to allow for more submissions.
+5,2,Permit,giấy phép; cho phép,,You need a permit to park in this area.
+5,2,Weight,trọng lượng,,The weight of the box made it difficult to carry up the stairs.
+5,2,Comedy,hài kịch,,We watched a hilarious comedy at the theater last night.
+5,3,Projector,máy chiếu,,The teacher used a projector to display the presentation on the screen.
+5,3,Shut off,tắt,,Please shut off the lights when you leave the room.
+5,3,Overheat,quá nóng,,The engine will overheat if the cooling system isn’t functioning properly.
+5,3,Happen,xảy ra,,Did you see what happened at the meeting yesterday?
+5,3,Control panel,bảng điều khiển,,The control panel allows users to adjust the machine settings.
+5,3,Cable,dây cáp,,Make sure the cable is connected securely to the device.
+5,3,Printout,bản in,,She reviewed the printout of the report before submitting it.
+5,3,Expert,chuyên gia,,We consulted an IT expert to fix the software issue.
+5,3,Beforehand,trước,,Make sure to review the material beforehand.
+5,3,Certificate,"chứng nhận, giấy chứng nhận",,He received a certificate for completing the course.
+5,3,Badge,"huy hiệu, thẻ",,All visitors must wear a badge while in the building.
+5,3,Expiration date,ngày hết hạn,,Check the expiration date before purchasing any food products.
+5,3,Authorize,"ủy quyền, cho phép",,The manager authorized the purchase of new office supplies.
+5,3,Retirement,sự nghỉ hưu,,She plans to travel a lot after her retirement.
+5,3,Guarantee,"bảo đảm, cam kết",,The company guarantees a refund if the product is defective.
+5,3,Monitor,giám sát; màn hình,,They use cameras to monitor activity in the store.
+5,3,Efficiency,hiệu suất,,The new software greatly improves work efficiency.
+5,3,Generate,tạo ra,,Solar panels generate electricity from sunlight.
+5,3,Lift,nâng lên; thang máy,,She needed help to lift the heavy box.
+5,3,Object,vật thể; phản đối,,The strange object found in the room caught everyone's attention.
+5,3,Testimonial,"lời chứng thực, sự khen ngợi",,The satisfied customer gave a glowing testimonial about the service.
+5,3,Cut over,"chuyển đổi (hệ thống, quy trình)",,The team planned the cut-over to the new software system for the weekend.
+5,3,Postpone,trì hoãn,,The meeting was postponed until next week due to unforeseen circumstances.
+5,3,File a complaint,nộp đơn khiếu nại,,She filed a complaint about the poor service she received at the restaurant.
+5,3,Route,lộ trình,,This is the fastest route to the airport.
+5,3,Knowledgeable,"am hiểu, có kiến thức",,He is very knowledgeable about digital marketing.
+5,3,Venue,địa điểm tổ chức,,The conference will take place at a venue downtown.
+5,3,Compliment,lời khen; khen ngợi,,She gave him a compliment on his excellent presentation skills.
+5,3,Offerings,"các sản phẩm, dịch vụ được cung cấp",,The store has expanded its offerings to include organic products.
+5,3,Recruit,tuyển dụng; nhân viên mới,,The company is looking to recruit talented engineers for its new project.
+5,3,Flexible,linh hoạt,,Working hours are flexible in this company to support a better work-life balance.
+5,3,Complimentary,miễn phí; ca ngợi,,All attendees were offered complimentary drinks at the event.
+5,3,Shuttle,"xe đưa đón, phương tiện đưa đón",,A shuttle runs every 30 minutes between the hotel and the airport.
+5,3,Decline,từ chối; sự suy giảm,,He declined the job offer because the salary was too low.
+5,3,Outreach,sự tiếp cận cộng đồng; tiếp cận,,The company’s outreach program aims to help underprivileged children in the area.
+5,3,Draft,bản nháp; phác thảo,,She submitted a draft of the proposal for feedback.
+5,3,Upholstery,"bọc ghế, vật liệu bọc nội thất",,The car’s upholstery needs to be cleaned after the road trip.
+5,3,Rebate,"giảm giá, tiền hoàn lại",,The store offered a rebate on electronics purchased during the holiday season.
+5,3,Expedite,"xúc tiến, đẩy nhanh",,The company hired more workers to expedite the production process.
+5,3,Mineral oil,dầu khoáng,,Mineral oil is often used as a base in cosmetic products.
+5,3,Durability,độ bền,,The durability of the materials makes them ideal for outdoor furniture.
+5,3,Invoice,hóa đơn,,Please send us the invoice for the items delivered last week.
+5,3,Modify,chỉnh sửa,,The contract was modified to include additional terms.
+5,3,Job description,bản mô tả công việc,,The job description highlights the qualifications required for the position.
+5,3,Play,"vở kịch, trò chơi",,The students performed a play based on a classic novel.
+5,3,Mild,"nhẹ, dịu",,"The weather today is mild, perfect for an outdoor picnic."
+5,3,Crowded,đông đúc,,The restaurant was so crowded that we had to wait for a table.
+5,3,Fairly,"khá, công bằng",,"The movie was fairly interesting, but not exceptional."
+5,3,Trial,"thử nghiệm, phiên tòa",,The software is available for a 30-day free trial.
+5,4,Lantern,đèn lồng,,The lanterns were hung around the garden for the festival.
+5,4,Set aside,"dành riêng, để dành",,She set aside some money every month for her vacation.
+5,4,Refund,"hoàn tiền, tiền hoàn lại",,The store offered a full refund for the defective product.
+5,4,Landscape,phong cảnh; làm cảnh quan,,The garden was landscaped with flowers and small trees.
+5,4,Debris,mảnh vụn,,The debris from the old building was cleared after the demolition.
+5,4,Walkway,lối đi,,The walkway was lined with flowers on both sides.
+5,4,Patio,sân hiên,,"We had dinner on the patio, enjoying the cool breeze."
+5,4,Be eligible for,đủ điều kiện,,Employees working for over a year are eligible for the bonus.
+5,4,Botanical garden,vườn thực vật,,The botanical garden has a wide variety of exotic plants.
+5,4,Ordinary,bình thường,,She prefers ordinary coffee over expensive specialty drinks.
+5,4,Inconvenient,bất tiện,,The hotel’s location was inconvenient for attending the conference.
+5,4,Land (v),"hạ cánh, đặt chân lên",,The plane landed safely despite the bad weather.
+5,4,Alternative,sự thay thế; thay thế,,They are looking for an alternative route to avoid the traffic jam.
+5,4,Retrieve,lấy lại,,The dog retrieved the ball thrown by its owner.
+5,4,Repurpose,tái sử dụng,,The old warehouse was repurposed as a community center.
+5,4,Landfill,bãi rác,,The city is finding ways to reduce the amount of waste sent to landfills.
+5,4,Leftover,đồ ăn thừa; còn sót lại,,She packed the leftovers from dinner to have for lunch the next day.
+5,4,Crayon,bút màu,,The child used a red crayon to draw a heart.
+5,4,Gather,"thu thập, tụ họp",,The committee gathered to discuss the upcoming event.
+5,4,Portion,"phần, đoạn",,He ate a large portion of the cake before anyone else could try it.
+5,4,Impact,"tác động, ảnh hưởng",,The speech had a significant impact on the audience.
+5,4,Coordinator,điều phối viên,,The event coordinator ensured everything ran smoothly.
+5,4,Reassurance,sự cam đoan,,She offered words of reassurance to calm the nervous students.
+5,4,Argue,tranh luận,,The lawyers argued over the evidence presented in court.
+5,4,Settle,"giải quyết, dàn xếp",,They finally settled the dispute after hours of negotiation.
+5,4,Package,gói hàng; đóng gói,,The package arrived two days earlier than expected.
+5,4,Interior,nội thất; bên trong,,The car’s interior design was modern and comfortable.
+5,4,Point out a problem,chỉ ra vấn đề,,The engineer pointed out a problem with the machine during the inspection.
+5,4,Expense,chi phí,,The company covered all travel expenses for the conference.
+5,4,Take advantage of,"tận dụng, lợi dụng",,She took advantage of the sale to buy a new laptop at a discounted price.
+5,4,Compensate,bồi thường,,The company compensated the employee for the overtime hours worked.
+5,4,Belongings,đồ đạc cá nhân,,She packed her belongings and left the apartment.
+5,4,Driveway,đường lái xe vào nhà,,The driveway was blocked by a delivery truck.
+5,4,Spray,bình xịt; phun,,He sprayed water on the plants early in the morning.
+5,4,Polish,đánh bóng; sự sáng bóng,,She polished the silverware before setting the table.
+5,4,Due,đến hạn,,The payment is due by the end of the month.
