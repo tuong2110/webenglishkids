@@ -47,3 +47,8 @@ webhocngoaingu/
 - Đảm bảo thư mục `webhocngoaingu/assets/uploads` có quyền ghi
 - Kiểm tra cấu hình PHP (upload_max_filesize, post_max_size)
 - Cấu hình email trong `webhocngoaingu/configs/config.php` nếu cần gửi email
+
+## Cập nhật
+
+- **Lần cập nhật gần nhất:** 7 tháng 12, 2025
+- **Phiên bản:** 1.0.0
