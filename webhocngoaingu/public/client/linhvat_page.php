@@ -82,8 +82,8 @@ $xpProgress = $userLinhVat['CapDo'] >= 3 ? 100 : (($userLinhVat['KinhNghiem'] - 
     }
     
     .linhvat-display-card__image {
-        width: 200px;
-        height: 200px;
+        width: 120px;
+        height: 120px;
         margin: 0 auto 20px;
         border-radius: 50%;
         border: 4px solid #4CAF50;
@@ -218,8 +218,8 @@ $xpProgress = $userLinhVat['CapDo'] >= 3 ? 100 : (($userLinhVat['KinhNghiem'] - 
         }
         
         .linhvat-display-card__image {
-            width: 150px;
-            height: 150px;
+            width: 100px;
+            height: 100px;
         }
     }
 </style>

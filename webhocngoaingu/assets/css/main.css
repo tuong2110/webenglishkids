@@ -7,13 +7,14 @@
 /* Header */
 
 .header {
-    background: linear-gradient(135deg, var(--main-color) 0%, #1a4d7a 100%);
+    background: linear-gradient(135deg, #E8F4F8 0%, #B8E0F0 100%);
     position: fixed;
     top: 0;
     width: 100%;
     z-index: 999;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
+    border-bottom: 1px solid rgba(184, 224, 240, 0.5);
 }
 
 .header:hover {
@@ -21,7 +22,7 @@
 }
 
 .header_wrap {
-    color: var(--white-color);
+    color: #2C5F7C;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -30,7 +31,7 @@
 
 .header_wrap a {
     text-decoration: none;
-    color: var(--white-color);
+    color: #2C5F7C;
     transition: all 0.3s ease;
 }
 
@@ -38,10 +39,7 @@
     font-size: 3rem;
     font-weight: 700;
     margin: 0;
-    background: linear-gradient(135deg, #ffffff 0%, #e0f2fe 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: #2C5F7C;
     transition: all 0.3s ease;
 }
 
@@ -60,7 +58,7 @@
     position: relative;
     top: -2px;
     text-decoration: none;
-    color: var(--white-color);
+    color: #2C5F7C;
     font-weight: 700;
     font-size: 2rem;
     margin-right: 32px;
@@ -70,15 +68,15 @@
 }
 
 .nav__course:hover {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(184, 224, 240, 0.3);
     transform: translateY(-2px);
 }
 
 .nav__statr {
-    color: var(--white-color);
-    background: linear-gradient(135deg, var(--green-color) 0%, #2dd4bf 100%);
+    color: #ffffff;
+    background: linear-gradient(135deg, #4A9BC7 0%, #6BB6E0 100%);
     transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
+    box-shadow: 0 4px 15px rgba(74, 155, 199, 0.3);
 }
 
 .nav__statr:hover {
@@ -90,14 +88,13 @@
 /* Slider */
 
 .slider {
-    background: linear-gradient(135deg, var(--main-color) 0%, #1a4d7a 50%, #0f3d5c 100%);
+    background: linear-gradient(135deg, #E8F4F8 0%, #B8E0F0 50%, #A8D5E8 100%);
     margin-top: var(--header-height);
     position: relative;
-    background-image: url(https://bom.so/SZeVgi);
     background-size: cover;
     background-position: center;
-    background-blend-mode: overlay;
-    overflow: hidden;
+    overflow: visible;
+    padding-bottom: 80px;
 }
 
 .slider::before {
@@ -107,12 +104,12 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(135deg, rgba(26, 77, 122, 0.8) 0%, rgba(15, 61, 92, 0.9) 100%);
+    background: linear-gradient(135deg, rgba(232, 244, 248, 0.95) 0%, rgba(184, 224, 240, 0.9) 100%);
     z-index: 0;
 }
 
 .slider-wrap {
-    padding-bottom: 50px;
+    padding-bottom: 120px;
     display: flex;
     justify-content: space-between;
     position: relative;
@@ -139,10 +136,10 @@
 .slider__content-heading {
     font-size: 4rem;
     font-weight: 700;
-    color: var(--white-color);
+    color: #2C5F7C;
     line-height: 6rem;
     position: relative;
-    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+    text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.5);
     animation: fadeInUp 1s ease 0.2s both;
 }
 
@@ -178,45 +175,38 @@
     font-weight: 700;
     line-height: 3rem;
     margin: 15px 0;
-    color: var(--white-color);
-    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+    color: #4A7C9E;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.5);
     animation: fadeInUp 1s ease 0.4s both;
 }
 
 .slider__img {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
     margin-top: 36px;
-    Width: 390px;
-    Height: 360px;
-    position: relative;
-}
-
-.slider__img .image {
     width: 100%;
-    height: 100%;
+    max-width: 500px;
+    height: 300px;
+    position: relative;
+    z-index: 1;
 }
 
-.slider__img .image_1 {
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    top: 0px;
-}
-
-.slider__img .image_2 {
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    right: 0px;
-    top: 0px;
-}
-
+.slider__img .image_1,
+.slider__img .image_2,
 .slider__img .image_3 {
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    left: 41%;
-    top: 22%;
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.15));
+    transition: transform 0.3s ease;
+}
+
+.slider__img .image_1:hover,
+.slider__img .image_2:hover,
+.slider__img .image_3:hover {
+    transform: scale(1.1) translateY(-5px);
 }
 
 
@@ -224,15 +214,14 @@
 /* course */
 
 .course {
-    top: 50%;
-    transform: translate(-50%, -50%);
     max-width: 1100px;
     width: 100%;
     position: absolute;
-    top: 99%;
+    bottom: -60px;
     left: 50%;
+    transform: translateX(-50%);
     padding: 0 10px;
-    z-index: 2;
+    z-index: 10;
 }
 
 .course__list {
@@ -240,12 +229,12 @@
     list-style: none;
     padding-left: 0;
     text-align: center;
-    background: linear-gradient(135deg, var(--main-color-plus-1) 0%, rgba(26, 77, 122, 0.95) 100%);
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(232, 244, 248, 0.95) 100%);
     padding: 20px;
     border-radius: 25px;
-    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 10px 40px rgba(184, 224, 240, 0.3);
     backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(184, 224, 240, 0.5);
     transition: all 0.3s ease;
 }
 
@@ -256,7 +245,7 @@
 
 .course__item {
     flex: 1;
-    color: var(--white-color);
+    color: #2C5F7C;
     font-weight: 700;
     line-height: 2.5rem;
     position: relative;
@@ -266,7 +255,7 @@
 }
 
 .course__item:hover {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(184, 224, 240, 0.3);
     transform: scale(1.05);
 }
 
@@ -280,12 +269,12 @@
 .course__item--separate::after {
     content: "";
     position: absolute;
-    border: 2px solid var(--separate-color);
+    border: 2px solid #B8E0F0;
     height: 80%;
     left: 0;
     top: 50%;
     transform: translateY(-50%);
-    opacity: 0.5;
+    opacity: 0.6;
 }
 
 .course__item-number {
@@ -321,7 +310,7 @@
 /* Reason */
 
 .reason {
-    margin-top: 120px;
+    margin-top: 180px;
     padding: 60px 0;
     background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
 }

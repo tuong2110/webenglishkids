@@ -16,6 +16,17 @@ $userLinhVat = $Database->get_row("SELECT nguoidung_linhvat.*, linhvat.AnhDaiDie
     FROM nguoidung_linhvat 
     INNER JOIN linhvat ON nguoidung_linhvat.MaLinhVat = linhvat.MaLinhVat 
     WHERE nguoidung_linhvat.TaiKhoan = '$taiKhoanEscaped'");
+
+// Hàm xác định ảnh linh vật theo cấp độ
+function getLinhVatImage($maLinhVat, $capDo) {
+    $linhVatNames = [
+        1 => 'sutu',
+        2 => 'bachtuoc', 
+        3 => 'khi'
+    ];
+    $name = $linhVatNames[$maLinhVat] ?? 'sutu';
+    return '/assets/img/anhlinhvat/' . $name . '-cap' . $capDo . '.png';
+}
 ?>
 <style>
     <?= include_once(__DIR__ . "/../../assets/css/home_page.css");
@@ -26,15 +37,15 @@ $userLinhVat = $Database->get_row("SELECT nguoidung_linhvat.*, linhvat.AnhDaiDie
         position: fixed;
         bottom: 15px;
         right: 15px;
-        width: 30px;
-        height: 30px;
+        width: 20px;
+        height: 20px;
         z-index: 1000;
         cursor: pointer;
         transition: transform 0.3s ease;
     }
     
     .linhvat-display:hover {
-        transform: scale(1.3);
+        transform: scale(1.2);
     }
     
     .linhvat-display img {
@@ -68,8 +79,8 @@ $userLinhVat = $Database->get_row("SELECT nguoidung_linhvat.*, linhvat.AnhDaiDie
     
     @media (max-width: 768px) {
         .linhvat-display {
-            width: 25px;
-            height: 25px;
+            width: 18px;
+            height: 18px;
             bottom: 10px;
             right: 10px;
         }
@@ -84,9 +95,11 @@ $userLinhVat = $Database->get_row("SELECT nguoidung_linhvat.*, linhvat.AnhDaiDie
         </div>
 
         <div class="main_content-container">
-            <?php if ($userLinhVat): ?>
+            <?php if ($userLinhVat): 
+                $linhVatImage = getLinhVatImage($userLinhVat['MaLinhVat'], $userLinhVat['CapDo']);
+            ?>
                 <div class="linhvat-display" title="<?= htmlspecialchars($userLinhVat['TenLinhVat']) ?>">
-                    <img src="<?= (strpos($userLinhVat['AnhDaiDien'], 'http') === 0) ? $userLinhVat['AnhDaiDien'] : BASE_URL(ltrim($userLinhVat['AnhDaiDien'], '/')) ?>" 
+                    <img src="<?= BASE_URL(ltrim($linhVatImage, '/')) ?>" 
                          alt="<?= htmlspecialchars($userLinhVat['TenLinhVat']) ?>"
                          onerror="this.onerror=null; this.src='<?= BASE_URL('/assets/img/anhlinhvat/4.png') ?>';">
                     <div class="linhvat-display__info">

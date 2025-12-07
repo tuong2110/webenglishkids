@@ -56,19 +56,18 @@ $topStudents = $Database->get_list("SELECT * FROM nguoidung ORDER BY CapDo DESC,
                     <div style="line-height:0;top: -40px;right: -40px;" class="headline-icon"><img src="https://i.imgur.com/GF5UgJs.png" loading="lazy" class="LazyImage__Img-sc-12k26ab-0 eVDYkS"></div>
                     <div style="line-height:0; top: -40px;right: -40px;" class="headline-icon"><img src="https://i.imgur.com/fmKnI8E.png" loading="lazy" class="LazyImage__Img-sc-12k26ab-0 eVDYkS"></div>
 
-                    <span class="slider__content-heading--color">ngoại ngữ</span>
-                    và cải thiện kĩ năng của bản thân bạn
+                    <span class="slider__content-heading--color">tiếng Anh</span>
+                    cùng các bạn linh vật dễ thương
                 </h1>
-                <p class="slider__content-text">Ngoại ngữ hiện đang rất quan trọng trong cuộc sống giao tiếp hằng ngày,
-                    khi đi du lịch, trong công việc</p>
+                <p class="slider__content-text">Học tiếng Anh thật vui và dễ dàng! Các bạn nhỏ sẽ học từ mới, 
+                    chơi game và nhận phần thưởng xinh xắn mỗi ngày.</p>
                 <a href="<?= BASE_URL("Auth/DangNhap") ?>" class="slider__content-start btn">Bắt đầu</a>
             </div>
             <div class="slider__img">
-                <img src="https://i.imgur.com/dGnCisl.png" loading="lazy" alt="<?= $Database->site("TenWeb") . ' - Nền tảng học ngoại ngữ online' ?>" class="image">
-                <img src="https://i.imgur.com/ezm9DcC.png" loading="lazy" alt="<?= $Database->site("TenWeb") . ' - Nền tảng học ngoại ngữ online' ?>" class="image_1">
-                <img src="https://i.imgur.com/aVPB2Ll.png" loading="lazy" alt="<?= $Database->site("TenWeb") . ' - Nền tảng học ngoại ngữ online' ?>" class="image_2">
-                <img src="https://i.imgur.com/nci9dng.png" loading="lazy" alt="<?= $Database->site("TenWeb") . ' - Nền tảng học ngoại ngữ online' ?>" class="image_3">
-
+                <!-- 3 linh vật thay thế nhân vật -->
+                <img src="<?= BASE_URL("/") ?>/assets/img/anhlinhvat/bachtuoc-cap1.png" loading="lazy" alt="Linh vật Bạch Tuộc" class="image_1">
+                <img src="<?= BASE_URL("/") ?>/assets/img/anhlinhvat/khi-cap1.png" loading="lazy" alt="Linh vật Khỉ" class="image_2">
+                <img src="<?= BASE_URL("/") ?>/assets/img/anhlinhvat/sutu-cap1.png" loading="lazy" alt="Linh vật Sư Tử" class="image_3">
             </div>
         </div>
     </div>
@@ -92,14 +91,14 @@ $topStudents = $Database->get_list("SELECT * FROM nguoidung ORDER BY CapDo DESC,
 
 <div class="reason">
     <div class="grid wide">
-        <h1 class="introduce__heading">Tại sao nên sử dụng <?= $Database->site("TenWeb") ?>?</h1>
+        <h1 class="introduce__heading">Tại sao các bạn nhỏ thích <?= $Database->site("TenWeb") ?>?</h1>
         <div class="why_use_container">
 
             <div class="reason__content">
                 <div class="reason__warp-img " style="background-color: #A2D6E5;">
-                    <img class="reason__img" src="https://i.imgur.com/Q9GYNuV.png" alt="<?= $Database->site("TenWeb") . ' - Các kỹ thuật ghi nhớ được khoa học chứng minh' ?>">
+                    <img class="reason__img" src="https://i.imgur.com/Q9GYNuV.png" alt="<?= $Database->site("TenWeb") . ' - Học dễ nhớ, nhớ lâu' ?>">
                 </div>
-                <p class="reason__text">Các kỹ thuật ghi nhớ được khoa học chứng minh</p>
+                <p class="reason__text">Học dễ nhớ, nhớ lâu với hình ảnh và trò chơi vui nhộn</p>
             </div>
 
 
@@ -125,24 +124,23 @@ $topStudents = $Database->get_list("SELECT * FROM nguoidung ORDER BY CapDo DESC,
                         <?php endforeach; ?>
                     </div>
                 </div>
-                <p class="reason__text">TOP HỌC SINH XUẤT SẮC</p>
+                <p class="reason__text">TOP BẠN NHỎ XUẤT SẮC</p>
             </div>
 
 
             <div class="reason__content">
                 <div class="reason__warp-img " style="background-color: #8AD6C2;">
-                    <img class="reason__img" src="https://i.imgur.com/9ifba7t.png" alt="<?= $Database->site("TenWeb") . ' - Học bằng cách đắm mình trong ngôn ngữ, như thế bạn đang sống ở đó vậy' ?>">
+                    <img class="reason__img" src="https://i.imgur.com/9ifba7t.png" alt="<?= $Database->site("TenWeb") . ' - Học như đang chơi, chơi mà học được' ?>">
                 </div>
-                <p class="reason__text">Học bằng cách đắm mình trong ngôn ngữ, như thế bạn đang sống ở đó vậy.</p>
+                <p class="reason__text">Học như đang chơi, chơi mà học được! Vừa vui vừa giỏi tiếng Anh.</p>
             </div>
 
 
             <div class="reason__content">
                 <div class="reason__warp-img " style="background-color: #F6C2C3;">
-                    <img class="reason__img" src="https://i.imgur.com/lqi2N7I.png" alt="<?= $Database->site("TenWeb") . ' - Bao quát mọi thứ từ những kiến thức thiết yếu cho những chuyến du lịch của bạn tới những mục tiêu dài hạn hơn' ?>">
+                    <img class="reason__img" src="https://i.imgur.com/lqi2N7I.png" alt="<?= $Database->site("TenWeb") . ' - Từ những từ đơn giản đến những câu hay' ?>">
                 </div>
-                <p class="reason__text">Bao quát mọi thứ từ những kiến thức thiết yếu cho những chuyến du lịch của
-                    bạn tới những mục tiêu dài hạn hơn</p>
+                <p class="reason__text">Từ những từ đơn giản đến những câu hay, phù hợp với mọi bạn nhỏ</p>
 
             </div>
         </div>
@@ -155,28 +153,28 @@ $topStudents = $Database->get_list("SELECT * FROM nguoidung ORDER BY CapDo DESC,
 
             <div class="introduce__content">
                 <div class="introduce__wrap-img">
-                    <img src="<?= BASE_URL("/") ?>/assets/img/menu.png" alt="<?= $Database->site("TenWeb") . ' - Lộ trình học tập được xây dựng cho riêng bạn' ?>" class="introduce__content-img">
+                    <img src="<?= BASE_URL("/") ?>/assets/img/menu.png" alt="<?= $Database->site("TenWeb") . ' - Lộ trình học tập dành riêng cho bạn' ?>" class="introduce__content-img">
                 </div>
                 <h3 class="introduce__content-heading">Lộ trình học tập</h3>
-                <p class="introduce__content-text">Lộ trình học tập được xây dựng cho riêng bạn</p>
+                <p class="introduce__content-text">Lộ trình học tập dành riêng cho bạn, từ dễ đến khó</p>
             </div>
 
 
             <div class="introduce__content">
                 <div class="introduce__wrap-img">
-                    <img src="<?= BASE_URL("/") ?>/assets/img/book.png" alt="<?= $Database->site("TenWeb") . ' - Danh sách từ vựng phong phú và thiết thực' ?>" class="introduce__content-img">
+                    <img src="<?= BASE_URL("/") ?>/assets/img/book.png" alt="<?= $Database->site("TenWeb") . ' - Nhiều từ vựng hay và dễ học' ?>" class="introduce__content-img">
                 </div>
-                <h3 class="introduce__content-heading">Bổ sung từ vựng</h3>
-                <p class="introduce__content-text">Danh sách từ vựng phong phú và thiết thực</p>
+                <h3 class="introduce__content-heading">Nhiều từ vựng hay</h3>
+                <p class="introduce__content-text">Nhiều từ vựng hay và dễ học, phù hợp với các bạn nhỏ</p>
             </div>
 
 
             <div class="introduce__content">
                 <div class="introduce__wrap-img">
-                    <img src="<?= BASE_URL("/") ?>/assets/img/free.png" alt="<?= $Database->site("TenWeb") . ' - Nền tảng miễn phí, bất cứ ai cũng có thể học, nó là miễn phí' ?>" class="introduce__content-img">
+                    <img src="<?= BASE_URL("/") ?>/assets/img/free.png" alt="<?= $Database->site("TenWeb") . ' - Hoàn toàn miễn phí cho tất cả các bạn nhỏ' ?>" class="introduce__content-img">
                 </div>
-                <h3 class="introduce__content-heading">Nền tảng miễn phí</h3>
-                <p class="introduce__content-text">Bất cứ ai cũng có thể học, nó là miễn phí</p>
+                <h3 class="introduce__content-heading">Hoàn toàn miễn phí</h3>
+                <p class="introduce__content-text">Hoàn toàn miễn phí cho tất cả các bạn nhỏ</p>
 
             </div>
         </div>
@@ -190,8 +188,8 @@ $topStudents = $Database->get_list("SELECT * FROM nguoidung ORDER BY CapDo DESC,
     <div class="introduce_website">
         <div class="introduce_website-left">
 
-            <h1 class="introduce__heading">Nhiều từ vựng được dịch nghĩa chính xác nhất</h1>
-            <p class="support-browser__content">Khác với các từ điển thông thường. Chúng tôi xây dựng từ điển của mình theo hướng người Việt giúp mang lại từ vựng có nghĩa chính xác nhất theo định nghĩa tiếng Việt.</p>
+            <h1 class="introduce__heading">Từ vựng được giải thích dễ hiểu</h1>
+            <p class="support-browser__content">Mỗi từ tiếng Anh đều được giải thích bằng tiếng Việt dễ hiểu, giúp các bạn nhỏ học nhanh và nhớ lâu hơn.</p>
         </div>
         <div class="introduce_website-right">
             <img src="https://i.imgur.com/aDm5Pgc.png" alt="<?= $Database->site("TenWeb") . ' - Nhiều từ vựng được dịch nghĩa chính xác nhất' ?>" />
@@ -208,14 +206,14 @@ $topStudents = $Database->get_list("SELECT * FROM nguoidung ORDER BY CapDo DESC,
             <img src="https://i.imgur.com/RjfROrU.png" alt="<?= $Database->site("TenWeb") . ' - Ví dụ cụ thể cho từng từ' ?>" />
         </div>
         <div class="introduce_website-left">
-            <h1 class="introduce__heading">Ví dụ cụ thể cho từng từ</h1>
-            <p class="support-browser__content">Với mỗi từ tiếng Anh sẽ có 1-2 ví dụ tương ứng, giúp các bạn nắm được cách mà từ này được sử dụng trong câu ứng với ngữ cảnh thực tế.</p>
+            <h1 class="introduce__heading">Có ví dụ dễ hiểu cho mỗi từ</h1>
+            <p class="support-browser__content">Mỗi từ tiếng Anh đều có ví dụ dễ hiểu, giúp các bạn nhỏ biết cách dùng từ trong câu.</p>
         </div>
 
     </div>
 </div>
 <div class="comment-slider">
-    <h1 class="introduce__heading">Học viên nói gì về <?= $Database->site("TenWeb") ?></h1>
+        <h1 class="introduce__heading">Các bạn nhỏ nói gì về <?= $Database->site("TenWeb") ?></h1>
     <div class="grid wide">
         <div class="comment-slider__list">
             <?php
@@ -235,8 +233,8 @@ $topStudents = $Database->get_list("SELECT * FROM nguoidung ORDER BY CapDo DESC,
                             <div class="comment-right-person">
                                 <img src="<?= BASE_URL("/") ?>/assets/img/Trung.png" alt="Học viên của <?= $Database->site("TenWeb") ?>" class="comment-right-person__img">
                                 <div class="comment-right-person__wrap-content">
-                                    <p class="comment-right-person__text">Ứng dụng hay và học tiếng anh rất tốt, tôi thích
-                                        nó! Arigathank</p>
+                                    <p class="comment-right-person__text">Em thích học ở đây lắm! Có nhiều trò chơi vui và 
+                                        các bạn linh vật dễ thương. Em học được nhiều từ mới mỗi ngày!</p>
                                     <div class="comment-right-person__name">Nguyễn Đức Trung</div>
                                 </div>
                                 <div class="comment-item__balloon--right"></div>
@@ -244,8 +242,8 @@ $topStudents = $Database->get_list("SELECT * FROM nguoidung ORDER BY CapDo DESC,
                             <div class="comment-right-person">
                                 <img src="<?= BASE_URL("/") ?>/assets/img/Quynh.png" alt="Học viên của <?= $Database->site("TenWeb") ?>" class="comment-right-person__img">
                                 <div class="comment-right-person__wrap-content">
-                                    <p class="comment-right-person__text">Nhờ có trang web này, tôi đã có thể đi xuất ngoại
-                                        với mức lương ngàn đô</p>
+                                    <p class="comment-right-person__text">Em học tiếng Anh ở đây mỗi ngày. Các từ vựng dễ nhớ 
+                                        và có nhiều game hay. Em rất thích!</p>
                                     <div class="comment-right-person__name">Lê Thanh Quỳnh</div>
                                 </div>
                                 <div class="comment-item__balloon--right"></div>
@@ -275,7 +273,8 @@ $topStudents = $Database->get_list("SELECT * FROM nguoidung ORDER BY CapDo DESC,
 ">
     <div class="support-browser">
         <h1 class="introduce__heading">Các trình duyệt hỗ trợ</h1>
-        <p class="support-browser__content">Nền tảng học ngoại ngữ <?= $Database->site("TenWeb") ?> hỗ trợ có thể tương tác với tất cả các trình duyệt máy tính để bàn và thiết bị di động hiện đại, và đã được kiểm tra kỹ lưỡng để đạt được hiệu suất và độ tin cậy trong phạm vi trình duyệt rộng nhất có thể.</p>
+        <p class="support-browser__content">Các bạn nhỏ có thể học tiếng Anh trên máy tính, máy tính bảng hoặc điện thoại. 
+            Chỉ cần mở trình duyệt là có thể học ngay!</p>
         <div class="support-browser__list-browser">
             <div class="support-browser__item">
                 <img src="https://i.imgur.com/Dp6UTr8.png" alt="<?= $Database->site("TenWeb") ?> - Học trên Firefox" class="support-browser__item-img">
@@ -318,62 +317,62 @@ $topStudents = $Database->get_list("SELECT * FROM nguoidung ORDER BY CapDo DESC,
         easing: 'easeInOutSine'
     });
 
+    // Animation cho 3 linh vật
     anime({
         targets: '.image_1',
-
         direction: 'alternate',
         loop: true,
         keyframes: [{
-                translateY: -40,
-                scale: 1.5,
+                translateY: -20,
+                scale: 1.1,
+                rotate: -5
             },
             {
-                translateY: 40,
+                translateY: 20,
                 scale: 1,
+                rotate: 5
             },
-
         ],
-        duration: 4000,
+        duration: 3000,
         easing: 'easeInOutSine'
     });
     anime({
         targets: '.image_2',
-        scale: 1.2,
-
         keyframes: [{
-                translateX: -40
+                translateY: -15,
+                scale: 1.1,
+                rotate: 5
             },
-
             {
-                translateX: 40
+                translateY: 15,
+                scale: 1,
+                rotate: -5
             },
-
         ],
-        duration: 4000,
+        duration: 3500,
         direction: 'alternate',
         loop: true,
-        easing: 'easeInOutSine'
+        easing: 'easeInOutSine',
+        delay: 200
     });
     anime({
         targets: '.image_3',
-
         keyframes: [{
-                opacity: 0,
-                scale: 1.4,
-                translateY: -40
+                translateY: -25,
+                scale: 1.1,
+                rotate: -3
             },
-
             {
-                opacity: 1,
+                translateY: 25,
                 scale: 1,
-                translateY: 0
+                rotate: 3
             },
-
         ],
-        duration: 4000,
+        duration: 3200,
         direction: 'alternate',
         loop: true,
-        easing: 'easeInOutSine'
+        easing: 'easeInOutSine',
+        delay: 400
     });
 </script>
 

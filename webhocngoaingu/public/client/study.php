@@ -14,6 +14,17 @@ $userLinhVat = $Database->get_row("SELECT nguoidung_linhvat.*, linhvat.AnhDaiDie
     INNER JOIN linhvat ON nguoidung_linhvat.MaLinhVat = linhvat.MaLinhVat 
     WHERE nguoidung_linhvat.TaiKhoan = '$taiKhoanEscaped'");
 
+// Hàm xác định ảnh linh vật theo cấp độ
+function getLinhVatImage($maLinhVat, $capDo) {
+    $linhVatNames = [
+        1 => 'sutu',
+        2 => 'bachtuoc', 
+        3 => 'khi'
+    ];
+    $name = $linhVatNames[$maLinhVat] ?? 'sutu';
+    return '/assets/img/anhlinhvat/' . $name . '-cap' . $capDo . '.png';
+}
+
 if (isset($_GET['maKhoaHoc']) && isset($_GET['maBaiHoc'])) {
     $checkDangKyKhoaHoc = $Database->get_row("SELECT * FROM dangkykhoahoc WHERE `TaiKhoan` = '" . $_SESSION["account"] . "' AND `MaKhoaHoc` = '" . check_string($_GET['maKhoaHoc']) . "' ");
 
@@ -118,9 +129,11 @@ if ($createDatabase) {
         </div>
     </div>
 </div>
-<?php if ($userLinhVat): ?>
+<?php if ($userLinhVat): 
+    $linhVatImage = getLinhVatImage($userLinhVat['MaLinhVat'], $userLinhVat['CapDo']);
+?>
     <div class="linhvat-display-study" title="<?= htmlspecialchars($userLinhVat['TenLinhVat']) ?>">
-        <img src="<?= (strpos($userLinhVat['AnhDaiDien'], 'http') === 0) ? $userLinhVat['AnhDaiDien'] : BASE_URL(ltrim($userLinhVat['AnhDaiDien'], '/')) ?>" 
+        <img src="<?= BASE_URL(ltrim($linhVatImage, '/')) ?>" 
              alt="<?= htmlspecialchars($userLinhVat['TenLinhVat']) ?>"
              onerror="this.onerror=null; this.src='<?= BASE_URL('/assets/img/anhlinhvat/4.png') ?>';">
         <div class="linhvat-display-study__info">
