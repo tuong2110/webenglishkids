@@ -19,16 +19,10 @@ webhocngoaingu/
 - PHP 7.4 trở lên
 - MySQL 5.7 trở lên
 - Apache/Nginx web server
-- Composer (cho dependencies)
 
 ## Cài đặt
 
-1. **Cài đặt Composer dependencies:**
-   ```bash
-   composer install
-   ```
-
-2. **Cấu hình database:**
+1. **Cấu hình database:**
    - Tạo database `hocngoaingu` trong MySQL
    - Import file `webhocngoaingu.sql`
    - Cập nhật thông tin database trong `webhocngoaingu/configs/config.php`
