@@ -11,6 +11,8 @@ $config = [
     'project' => '5FsGroup',
     'url' => BASE_URL,
     'version' => '1.0.0',
+    'build_date' => '2025-12-07',
+    'last_updated' => '2025-12-07',
     'ip_server' => ''
 ];
 

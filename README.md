@@ -50,5 +50,6 @@ webhocngoaingu/
 
 ## Cập nhật
 
-- **Lần cập nhật gần nhất:** 7 tháng 12, 2025
+- **Lần cập nhật gần nhất:** 07 December, 2025
 - **Phiên bản:** 1.0.0
+- **Build Date:** 2025-12-07
